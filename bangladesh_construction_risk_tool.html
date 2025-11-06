@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangladesh Construction Suitability Assessment</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .map-section {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            min-height: 600px;
+        }
+        #map {
+            height: 100%;
+            width: 100%;
+        }
+        .info-section {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            overflow-y: auto;
+            max-height: 600px;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+        .status-box {
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-weight: 500;
+            display: none;
+        }
+        .status-box.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+            display: block;
+        }
+        .status-box.warning {
+            background-color: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+            display: block;
+        }
+        .status-box.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+            display: block;
+        }
+        .coordinates-input {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .coordinates-input input {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        .coordinates-input button {
+            padding: 10px 20px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: background 0.3s;
+        }
+        .coordinates-input button:hover {
+            background: #5568d3;
+        }
+        .result-section {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: none;
+        }
+        .result-section.active {
+            display: block;
+        }
+        .metric {
+            margin-bottom: 15px;
+        }
+        .metric-label {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        .metric-value {
+            padding: 10px;
+            background: white;
+            border-left: 4px solid #667eea;
+            border-radius: 4px;
+            color: #555;
+        }
+        .loading {
+            text-align: center;
+            display: none;
+            padding: 20px;
+        }
+        .loading.active {
+            display: block;
+        }
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .nearest-places {
+            margin-top: 20px;
+        }
+        .place-card {
+            background: white;
+            padding: 12px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            border-left: 4px solid #667eea;
+        }
+        .place-name {
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+        }
+        .place-distance {
+            font-size: 12px;
+            color: #666;
+        }
+        .risk-indicator {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-top: 8px;
+        }
+        .risk-high {
+            background-color: #ffe5e5;
+            color: #c41e3a;
+        }
+        .risk-medium {
+            background-color: #ffe5cc;
+            color: #cc7700;
+        }
+        .risk-low {
+            background-color: #e5f5e5;
+            color: #2d7a2d;
+        }
+        @media (max-width: 1024px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            .map-section {
+                min-height: 400px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="map-section">
+            <div id="map"></div>
+        </div>
+        
+        <div class="info-section">
+            <h1>🏗️ Construction Suitability Assessment</h1>
+            
+            <div class="coordinates-input">
+                <input type="number" id="latitude" placeholder="Latitude" step="0.0001" min="20" max="27">
+                <input type="number" id="longitude" placeholder="Longitude" step="0.0001" min="87" max="93">
+                <button onclick="analyzeCoordinates()">Analyze</button>
+            </div>
+            
+            <div class="status-box" id="statusBox"></div>
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Analyzing location...</p>
+            </div>
+            
+            <div class="result-section" id="resultSection">
+                <div class="metric">
+                    <div class="metric-label">📍 Selected Location</div>
+                    <div class="metric-value" id="selectedLocation"></div>
+                </div>
+                
+                <div class="metric">
+                    <div class="metric-label">🏗️ Building Suitability</div>
+                    <div class="metric-value" id="suitability"></div>
+                </div>
+                
+                <div class="metric">
+                    <div class="metric-label">🌍 Soil Type</div>
+                    <div class="metric-value" id="soilType"></div>
+                </div>
+                
+                <div class="metric">
+                    <div class="metric-label">💪 Bearing Capacity</div>
+                    <div class="metric-value" id="bearingCapacity"></div>
+                </div>
+                
+                <div class="metric">
+                    <div class="metric-label">🌊 Flood Vulnerability</div>
+                    <div class="metric-value" id="floodVulnerability"></div>
+                </div>
+                
+                <div class="metric">
+                    <div class="metric-label">🪨 Erosion Risk</div>
+                    <div class="metric-value" id="erosionRisk"></div>
+                </div>
+                
+                <div class="nearest-places">
+                    <div class="metric-label">📊 Nearest Assessed Locations</div>
+                    <div id="nearestPlaces"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Bangladesh bounds
+        const bangladeshBounds = [[20.5, 87.5], [27, 93]];
+        
+        // Initialize map
+        const map = L.map('map').setView([23.685, 90.356], 7);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        }).addTo(map);
+        
+        let selectedMarker;
+        
+        // Map click handler
+        map.on('click', (e) => {
+            const {lat, lng} = e.latlng;
+            document.getElementById('latitude').value = lat.toFixed(4);
+            document.getElementById('longitude').value = lng.toFixed(4);
+            analyzeCoordinates();
+        });
+        
+        function analyzeCoordinates() {
+            const lat = parseFloat(document.getElementById('latitude').value);
+            const lng = parseFloat(document.getElementById('longitude').value);
+            
+            if (!lat || !lng || isNaN(lat) || isNaN(lng)) {
+                showStatus('Please enter valid coordinates', 'error');
+                return;
+            }
+            
+            document.getElementById('loading').classList.add('active');
+            document.getElementById('resultSection').classList.remove('active');
+            
+            // Call Flask backend
+            const apiUrl = 'http://127.0.0.1:5555/api/analyze';
+            
+            fetch(apiUrl, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({lat, lng})
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                document.getElementById('loading').classList.remove('active');
+                analyzeLocationWithData(lat, lng, data);
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                showStatus('⚠️ Error connecting to server. Make sure Flask is running on port 5555', 'error');
+                document.getElementById('loading').classList.remove('active');
+            });
+        }
+        
+        function analyzeLocationWithData(lat, lng, apiData) {
+            // Update map
+            if (selectedMarker) map.removeLayer(selectedMarker);
+            selectedMarker = L.marker([lat, lng], {
+                icon: L.icon({
+                    iconUrl: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjNjY3ZWVhIiBkPSJNMTIgMEMyLjY4IDE0LjMgMCAxOCAwIDIxYzAgMS42NTQgMS4zNDYgMyAzIDNoMThjMS42NTQgMCAzLTEuMzQ2IDMtM2MwLTMtMi42OC02LjctMTItMjF6bTAtMjBsMi01aDAuNVoiLz48L3N2Zz4=',
+                    iconSize: [32, 32],
+                    iconAnchor: [16, 32]
+                })
+            }).addTo(map);
+            map.setView([lat, lng], 10);
+            
+            // Determine status styling
+            let statusClass = 'warning';
+            if (apiData.status === 'suitable' || apiData.status === 'not_suitable') {
+                statusClass = apiData.status === 'suitable' ? 'success' : 'error';
+            } else if (apiData.status === 'high_risk') {
+                statusClass = 'error';
+            }
+            
+            showStatus(`${apiData.message}`, statusClass);
+            
+            // Display results from API
+            document.getElementById('selectedLocation').textContent = `${lat.toFixed(4)}° N, ${lng.toFixed(4)}° E`;
+            document.getElementById('suitability').textContent = apiData.nearest_location.suitability || 'N/A';
+            document.getElementById('soilType').textContent = apiData.nearest_location.soil_type || 'N/A';
+            document.getElementById('bearingCapacity').textContent = apiData.nearest_location.bearing_capacity || 'N/A';
+            
+            const floodFreq = apiData.nearest_location.flood_frequency || 'Unknown';
+            const floodRiskClass = floodFreq.toLowerCase().includes('high') ? 'risk-high' : 
+                                   floodFreq.toLowerCase().includes('medium') ? 'risk-medium' : 'risk-low';
+            document.getElementById('floodVulnerability').innerHTML = `
+                ${floodFreq}
+                <div class="risk-indicator ${floodRiskClass}">
+                    ${floodFreq.toLowerCase().includes('high') ? 'HIGH RISK' : floodFreq.toLowerCase().includes('medium') ? 'MEDIUM RISK' : 'LOW RISK'}
+                </div>
+            `;
+            document.getElementById('erosionRisk').textContent = apiData.nearest_location.erosion_risk || 'N/A';
+            
+            // Display nearest places
+            let nearestHTML = `
+                <div class="place-card" style="border-left-color: #28a745;">
+                    <div class="place-name">${apiData.nearest_location.name}</div>
+                    <div class="place-distance">📍 ${apiData.nearest_location.distance_km} km away | ${apiData.nearest_location.division}</div>
+                    <div class="risk-indicator ${floodRiskClass}">
+                        Flood Risk: ${floodFreq}
+                    </div>
+                </div>
+            `;
+            
+            if (apiData.nearby_locations && apiData.nearby_locations.length > 0) {
+                apiData.nearby_locations.forEach(loc => {
+                    const locFloodClass = loc.flood_frequency.toLowerCase().includes('high') ? 'risk-high' : 
+                                         loc.flood_frequency.toLowerCase().includes('medium') ? 'risk-medium' : 'risk-low';
+                    nearestHTML += `
+                        <div class="place-card">
+                            <div class="place-name">${loc.name}</div>
+                            <div class="place-distance">📍 ${loc.distance_km} km away | ${loc.division}</div>
+                            <div class="risk-indicator ${locFloodClass}">
+                                Flood: ${loc.flood_frequency}
+                            </div>
+                        </div>
+                    `;
+                });
+            }
+            document.getElementById('nearestPlaces').innerHTML = nearestHTML;
+            
+            document.getElementById('resultSection').classList.add('active');
+        }
+        
+        function showStatus(message, type) {
+            const box = document.getElementById('statusBox');
+            box.className = `status-box ${type}`;
+            box.innerHTML = message;
+        }
+    </script>
+</body>
+</html>

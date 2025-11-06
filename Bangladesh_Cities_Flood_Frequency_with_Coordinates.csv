@@ -1,0 +1,43 @@
+Place,Division,Flood_Frequency,Last_Major_Flood_Year,Notes,Primary_Sources,Latitude,Longitude
+Sherpur,Mymensingh Division,Medium,2017/2024,Riverine/monsoon flooding; district-level floods reported in BWDB annual reports.,FFWC Annual Report; ICIMOD,25.0188,90.0175
+Mymensingh,Mymensingh Division,Medium,2017,Monsoon and flash floods affect Mymensingh; inundation mapped in MODIS/ICIMOD datasets.,ICIMOD; MODIS inundation studies,24.7434,90.3984
+Rangpur,Rangpur Division,Medium-High,2024,Large-area flood susceptibility in Rangpur Division; several recent riverine events.,Rangpur flood risk studies; Reuters 2024,25.7449,89.2756
+Sylhet,Sylhet Division,High,2022,Frequent flash floods in Sylhet; 2022 event was record-breaking in some districts.,Research on Sylhet floods; Flood Observatory,24.899,91.872
+Jamalpur,Mymensingh Division,Medium,2017,Riverine floods associated with Brahmaputra/tributary flows; district floods reported in 2017.,FFWC Annual Report; ICIMOD,24.923,89.9501
+Nagar Naluakot,Dhaka Division,Unknown,,Place name ambiguous; recommend clarifying exact location to assign frequency.,,,
+Karnaphuli,Chittagong,Medium,2021,Karnaphuli River basin subject to riverine/monsoon flooding; localized events and landslides in region.,Floodlist; Bangladesh news,,
+Bhairab Bazar,Dhaka Division,Medium-High,2017,Located on major river confluences; periodic inundation reported.,BWDB reports; local flood studies,,
+Ashuganj City,Chittagong,Medium-High,2017,Riverside location (Meghna/Ilisha region) with recurrent riverine flooding.,FFWC; local reports,,
+Saidpur,Rangpur Division,Medium,2015/2017,Affected by river overflow and monsoon rains; district flood reports exist.,District reports; research articles,,
+Kafrul,Dhaka Division,High (urban),2017/2024,Part of Greater Dhaka — frequent urban flooding during monsoon; drainage/urban runoff issues documented.,World Bank Dhaka urban flooding; urban flood studies,,
+Dhaka,Dhaka Division,High,1988/1998/2004/2024,"Greater Dhaka has a long history of urban and riverine floods; major events include 1988, 1998, 2004 and recent monsoon impacts.",World Bank; research articles,23.8103,90.4125
+Rangamati,Chittagong,High (flash/landslide),2024,"Hilly and valley terrain: flash floods and landslides more frequent, especially during heavy monsoons.",Local flood studies; 2024 flood reports,,
+Narsingdi,Dhaka Division,Medium-High,2017,Near Meghna river system; repeated inundation reported at district level.,FFWC; ICIMOD reports,23.9207,90.7188
+Gazipur,Dhaka Division,Medium,2017,Part of Greater Dhaka; urban flooding and drainage-related floods occur in heavy monsoon seasons.,World Bank urban flooding; local reports,24.0,90.4167
+Paltan,Dhaka Division,High (urban),2017,Central Dhaka neighbourhood — urban flash flooding during heavy rains.,Dhaka urban flood studies,23.725,90.421
+Bhatara,Dhaka Division,Unknown,,Ambiguous place name; recommend clarifying for precise assignment.,,,
+Tungi,Dhaka Division,Medium,2017,Part of Dhaka metro/timing adjacent areas — experiences urban flooding.,Local flood reports,23.912,90.3889
+Savar,Dhaka Division,Medium,2017,Peri-urban area with river/pond inundation during monsoon.,World Bank Dhaka datasets; local reports,23.8583,90.2667
+Shibganj,Rajshahi Division,Medium,2019,Northwestern flood-prone areas; riverine inundation episodes.,District reports; BWDB,,
+Bogra,Rajshahi Division,Medium,2017,Riverine floods in Bogra district reported in national flood years.,FFWC Annual Reports,24.849,89.3677
+Dinajpur,Rangpur Division,Medium,2017,Affected by monsoon and river overflow; district-level events recorded.,District flood reports,25.625,88.65
+Satkhira,Khulna Division,High,2024,"Coastal/southwest zone — tidal, storm surge and riverine flooding are significant.",Coastal flood studies; FFWC,22.7234,89.0751
+Cox's Bazar,Chittagong,High (coastal/flash),2021/2024,"Coastal flooding, storm surge and monsoon flash floods; recent severe events and landslides.",ThinkHazard; FloodList; BMD advisories,21.4272,92.0058
+Nagarpur,Dhaka Division,Medium,2017,Flooding linked to monsoon river overflow; district records show periodic inundation.,FFWC; local reports,,
+Sirajganj,Rajshahi Division,High,2017,On Jamuna river — a historically highly flood-prone district with frequent riverine floods.,BWDB; FFWC reports,24.449,89.717
+Comilla,Chittagong,Medium-High,2017,Meghna/tributary influenced; periodic large floods.,FFWC; local flood studies,23.45,91.1999
+Rajshahi,Rajshahi Division,Medium,2019,Western Bangladesh with seasonal flooding; moderate risk compared to north-east/coastal zones.,District reports; research articles,24.3745,88.6042
+Shahzadpur,Rajshahi Division,Medium,2017,Upazila-level flooding reported during major monsoon years.,District/Upazila reports,24.297,89.733
+Jessore,Khulna Division,Medium-High,2024,Southwest region — tidal and river flooding plus drainage congestion.,Coastal flood studies; BWDB,23.1707,89.2124
+Chittagong,Chittagong,High,2021/2024,"Port city subject to heavy monsoon rains, urban floods and landslides in hillsides.",FloodList; local news reports,22.3419,91.8155
+Sonargaon,Dhaka Division,Medium,2017,Near Meghna river; periodic inundation and historic flood records.,FFWC; ICIMOD,23.5636,90.8289
+Pabna,Rajshahi Division,Medium,2017,Affected by river floods in Jamuna/Padma basin areas.,District reports,24.0064,89.2493
+Faridpur,Dhaka Division,Medium-High,2017,Padma/tributary influenced — recurring riverine floods.,FFWC,23.607,89.8429
+Bandarban,Chittagong,High (flash/landslide),2021/2024,Hilly area with flash floods and landslides during intense monsoon rains.,Local reports; Reuters/UN,22.194,92.218
+Tangail,Dhaka Division,Medium,2017,Flooding from Jamuna-related overflow and heavy monsoon rains.,District reports,24.25,89.9167
+Bagerhat,Khulna Division,Medium-High,2019,Coastal/inland mix — tidal influence and river flooding.,Coastal flood studies,22.65,89.7667
+Nawabganj,Rajshahi Division,Medium,2017,North-west flood episodes recorded during major floods.,District reports,24.5,88.3333
+Khulna,Khulna Division,High,2024,Coastal/tidal flooding and drainage congestion lead to frequent inundation in parts of the city.,Coastal flood studies; FFWC,22.8167,89.55
+Narayanganj,Dhaka Division,High,2017/2024,Industrial riverside city near Dhaka — frequent riverine/urban flooding.,World Bank; local reports,23.6226,90.501
+Mohammadpur,Rajshahi Division,Unknown,,"Ambiguous (Mohammadpur is also a Dhaka locality); if Rajshahi Mohammadpur, need clarification.",,24.727,88.921
+Par Naogaon,Rajshahi Division,Medium,2017,Naogaon district experiences seasonal river floods.,District reports,24.8167,89.3667
