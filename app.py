@@ -13,14 +13,23 @@ warnings.filterwarnings('ignore')
 app = Flask(__name__)
 CORS(app)
 
-# Paths
-DATA_PATH = Path.home() / "Documents" / "Building"
+# Paths (relative to this file's folder)
+BASE_DIR = Path(__file__).resolve().parent
+
+DATA_PATH = BASE_DIR
 SOIL_CSV = DATA_PATH / "soil_topography.csv"
-FLOOD_CSV = DATA_PATH / "Bangladesh_Cities_Flood_Frequency_with_Coordinates.csv"
+
+# If your flood CSV name is long, this will match the one in the folder:
+cand = list(DATA_PATH.glob("Bangladesh_Cities_Flood_Frequency_with_*.csv"))
+FLOOD_CSV = cand[0] if cand else DATA_PATH / "Bangladesh_Cities_Flood_Frequency_with_Coordinates.csv"
+
 POPULATION_CSV = DATA_PATH / "bangladesh_population_density.csv"
+
+# Models/artifacts kept alongside app.py
 MODEL_PATH = DATA_PATH / "vulnerability_model.pkl"
 SCALER_PATH = DATA_PATH / "scaler.pkl"
 ENCODERS_PATH = DATA_PATH / "label_encoders.pkl"
+
 
 # Global variables
 soil_data = None

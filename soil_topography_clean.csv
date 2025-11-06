@@ -1,0 +1,36 @@
+Place,Division,Latitude,Longitude,Soil_Type,Bearing_Capacity,Erosion_Risk,Building_Suitability,Source_Datasets
+Sherpur,Mymensingh Division,25.0188,90.0175,Alluvial silty loam,Moderate,Medium,Caution (foundation depth recommended),"SoilGrids,SRTM,JRC"
+Mymensingh,Mymensingh Division,24.7434,90.3984,Alluvial silty loam,Moderate,Medium-High,Caution (near rivers),"SoilGrids,SRTM,JRC"
+Rangpur,Rangpur Division,25.7449,89.2756,Clay loam,Good,Medium,Suitable,"SoilGrids,SRTM"
+Sylhet,Sylhet Division,24.899,91.872,Silty clay,Moderate,High (flash floods),Caution (drainage required),"SoilGrids,JRC"
+Jamalpur,Mymensingh Division,24.923,89.9501,Alluvial silty loam,Moderate,Medium,Caution,"SoilGrids,SRTM,JRC"
+Bhairab Bazar,Dhaka Division,24.0667,90.9833,Silty alluvium,Moderate,High (river confluence),Caution,"SoilGrids,JRC"
+Ashuganj City,Chittagong,24.0167,91.05,Alluvial silt,Moderate,High,Caution,"SoilGrids,JRC"
+Saidpur,Rangpur Division,25.7777,88.8917,Silty clay loam,Good,Medium,Suitable,"SoilGrids,SRTM"
+Dhaka,Dhaka Division,23.8103,90.4125,Alluvial silty clay / urban fill,Variable (often poor),High (urban & river),Requires geotechnical design,"SoilGrids,SRTM,JRC,BWDB"
+Narsingdi,Dhaka Division,23.9207,90.7188,Alluvial silt,Moderate,Medium-High,Caution,"SoilGrids,JRC"
+Gazipur,Dhaka Division,24.0,90.4167,Alluvial silt / urban fill,Variable,Medium,Caution,"SoilGrids,SRTM"
+Paltan,Dhaka Division,23.725,90.421,Urban fill / silty clay,Poor to Variable,High (urban flooding),Requires piling/geotech,"SoilGrids,SRTM,JRC"
+Tungi,Dhaka Division,23.912,90.3889,Alluvial silt,Moderate,Medium,Suitable with shallow foundations,"SoilGrids,SRTM"
+Savar,Dhaka Division,23.8583,90.2667,Alluvial silty clay,Moderate,Medium,Caution,"SoilGrids,SRTM"
+Bogra,Rajshahi Division,24.849,89.3677,Silty clay loam,Good,Medium,Suitable,"SoilGrids,SRTM"
+Dinajpur,Rangpur Division,25.625,88.65,Sandy loam to silty loam,Good,Low to Medium,Suitable,SoilGrids
+Satkhira,Khulna Division,22.7234,89.0751,Coastal clay/silt (tidal),Poor,High (tidal/storm surge),Not recommended without deep foundations,"SoilGrids,JRC"
+Cox's Bazar,Chittagong,21.4272,92.0058,Coastal sand / alluvium,Poor,High (coastal),Not recommended without engineering,"SoilGrids,SRTM,JRC"
+Sirajganj,Rajshahi Division,24.449,89.717,Riverine silt/clay,Poor to Moderate,High (Jamuna river),Caution; riverbank protection needed,"SoilGrids,JRC,BWDB"
+Comilla,Chittagong,23.45,91.1999,Alluvial silt,Moderate,Medium,Suitable with caution near rivers,"SoilGrids,JRC"
+Rajshahi,Rajshahi Division,24.3745,88.6042,Alluvial silty clay,Good,Medium,Suitable,SoilGrids
+Shahzadpur,Rajshahi Division,24.297,89.733,Alluvial silty loam,Moderate,Medium,Suitable,SoilGrids
+Jessore,Khulna Division,23.1707,89.2124,Coastal-alluvial silt,Moderate,Medium-High,Caution,"SoilGrids,JRC"
+Chittagong,Chittagong,22.3419,91.8155,Hilly soil & alluvial plains,Variable,High (hills/urban floods),Site-specific geotech required,"SoilGrids,SRTM"
+Sonargaon,Dhaka Division,23.5636,90.8289,Riverine silt,Poor to Moderate,High,Caution,"SoilGrids,JRC"
+Pabna,Rajshahi Division,24.0064,89.2493,Silty clay loam,Good,Medium,Suitable,SoilGrids
+Faridpur,Dhaka Division,23.607,89.8429,Alluvial silt/clay,Moderate,Medium-High,Caution,"SoilGrids,JRC"
+Bandarban,Chittagong,22.194,92.218,Hilly soil (sandy loam),Poor to Moderate (slope issues),High (landslides/flash),Not recommended without slope measures,"SoilGrids,SRTM"
+Tangail,Dhaka Division,24.25,89.9167,Alluvial silt,Good,Medium,Suitable,SoilGrids
+Bagerhat,Khulna Division,22.65,89.7667,Coastal clay/silt,Poor,High,Not recommended without deep foundations,"SoilGrids,JRC"
+Nawabganj,Rajshahi Division,24.5,88.3333,Alluvial clay loam,Good,Medium,Suitable,SoilGrids
+Khulna,Khulna Division,22.8167,89.55,Tidal clay/silt,Poor,High (tidal/sea level),Not recommended without specialized design,"SoilGrids,JRC"
+Narayanganj,Dhaka Division,23.6226,90.501,Riverine silt / urban fill,Poor to Moderate,High,Caution,"SoilGrids,JRC,BWDB"
+Mohammadpur,Rajshahi Division,24.727,88.921,Alluvial clay loam,Good,Medium,Suitable,SoilGrids
+Par Naogaon,Rajshahi Division,24.8167,89.3667,Alluvial silt,Good,Medium,Suitable,SoilGrids
