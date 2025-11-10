@@ -215,6 +215,12 @@ def nearest_safer(df: pd.DataFrame, base_row: pd.Series, lat: float, lon: float,
 # -------------------------
 # Seaborn single-plot visualization + pretty console summary
 # -------------------------
+def _zone_label_and_color(evi: float) -> tuple[str, str]:
+    if evi < 25:   return "Low",    "#2ecc71"  # green
+    if evi < 50:   return "Medium", "#f1c40f"  # yellow
+    if evi < 75:   return "High",   "#e67e22"  # orange
+    return "Very High", "#e74c3c"              # red
+
 def visualize_oneplot_for_coordinate(
     df: pd.DataFrame,
     lat: float,
@@ -356,21 +362,3 @@ def visualize_oneplot_for_coordinate(
         "avg_Safety_Index": float(round(avg_safety, 2)),
         "recommendations_count": int(len(recs))
     }
-
-
-# -------------------------
-# Optional: quick demo if you run this file directly
-# # -------------------------
-# if __name__ == "__main__":
-#     # Change this path to your CSV
-#     CSV = r"./Updated_earthquake_data.csv"
-#     df = build_evi_dataset(CSV)
-#     model, scaler = train_spatial_model(df, n_neighbors=8, model_path="knn_model.pkl")
-
-#     # Example coordinate (Patuakhali-ish)
-#     info = visualize_oneplot_for_coordinate(
-#         df, lat=22.35, lon=90.30, model=model, scaler=scaler, k=3,
-#         out_path=None,   # or "outputs/buildsafe_summary.png"
-#         show=True
-#     )
-#     print(info)
