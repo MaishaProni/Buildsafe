@@ -1,8 +1,8 @@
 import pandas as pd
 
 
-fdi = pd.read_csv("flood_data.csv")
-coords = pd.read_csv("Updated_coordinates.csv")
+fdi = pd.read_csv("raw_data/flood_data.csv")
+coords = pd.read_csv("processed_data/Updated_coordinates.csv")
 
 
 fdi.columns = fdi.columns.str.strip()
@@ -19,6 +19,6 @@ combined = fdi.merge(coords[["district", "Latitude", "Longitude"]],
 cleaned = combined.dropna(subset=["FDI_proxy_0_1", "Latitude", "Longitude"])
 
 
-cleaned.to_csv("Updated_flood_data.csv", index=False)
+cleaned.to_csv("processed_data/Updated_flood_data.csv", index=False)
 
 print("Saved as Updated_flood_data.csv")

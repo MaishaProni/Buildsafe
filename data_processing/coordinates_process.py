@@ -1,8 +1,9 @@
 import pandas as pd
 
 
-df1 = pd.read_csv("Coordinates.csv")
-df2 = pd.read_csv("Bangladesh_District_Coordinates.csv")
+df1 = pd.read_csv("raw_data/Coordinates.csv")
+df2 = pd.read_csv("raw_data/Bangladesh_District_Coordinates.csv")
+
 
 df1.columns = df1.columns.str.strip()
 df2 = df2.rename(columns={
@@ -37,6 +38,6 @@ combined = pd.concat([merged, missing], ignore_index=True)
 combined = combined.drop_duplicates(subset=["_key"], keep="first").drop(columns=["_key"])
 
 
-combined.to_csv("Updated_Coordinates.csv", index=False, encoding="utf-8-sig")
+combined.to_csv("processed_data/Updated_Coordinates.csv", index=False, encoding="utf-8-sig")
 
 print(" Cleaned, merged, and saved as Updated_Coordinates.csv")

@@ -1,8 +1,8 @@
 import pandas as pd
 
 
-cyclone = pd.read_csv("cyclone_data.csv")            
-coords = pd.read_csv("Updated_Coordinates.csv")       
+cyclone = pd.read_csv("raw_data/cyclone_data.csv")            
+coords = pd.read_csv("processed_data/Updated_Coordinates.csv")       
 
 
 cyclone.columns = cyclone.columns.str.strip()
@@ -17,6 +17,6 @@ combined = cyclone.merge(coords[["district", "Latitude", "Longitude"]],
 cleaned = combined.dropna(subset=["cyclone_count", "avg_max_wind_kph", "strongest_category", "Latitude", "Longitude"])
 
 
-combined.to_csv("Updated_cyclone_data.csv", index=False)
+combined.to_csv("processed_data/Updated_cyclone_data.csv", index=False)
 
 print("Saved as Updated_cyclone_data.csv")

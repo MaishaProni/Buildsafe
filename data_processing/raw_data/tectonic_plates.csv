@@ -1,0 +1,65 @@
+﻿District,Division,Tectonic_Zone,Approx_Distance_to_Plate_km,Nearest_Plate,Last_Major_Earthquake_Year,Last_Major_Earthquake_Magnitude,Notable_Fault_or_Structure,Seismic_Hazard_Level
+Sylhet,Sylhet,Dauki Fault Zone,30,Indian–Burma Plate Boundary,1918,7.5,Dauki Fault,High
+Moulvibazar,Sylhet,Dauki Fault Zone,35,Indian–Burma Plate Boundary,1918,7.5,Dauki Fault,High
+Habiganj,Sylhet,Tripura Fold Belt,80,Indian–Burma Plate Boundary,1918,7.0,Tripura Thrust Zone,Medium
+Sunamganj,Sylhet,Dauki Fault Zone,45,Indian–Burma Plate Boundary,1918,7.5,Dauki Fault,High
+Chittagong,Chittagong,Indo‑Burma Subduction Zone,25,Indian–Burma Plate Boundary,1762,8.5,Arakan–Burma Subduction,High
+Cox's Bazar,Chittagong,Indo‑Burma Subduction Zone,15,Indian–Burma Plate Boundary,1762,8.5,Arakan Subduction,High
+Khagrachari,Chittagong,Indo‑Burma Fold Belt,40,Indian–Burma Plate Boundary,1762,7.0,Tripura Fold Belt,High
+Rangamati,Chittagong,Indo‑Burma Fold Belt,50,Indian–Burma Plate Boundary,1762,7.0,Tripura Fold Belt,High
+Bandarban,Chittagong,Indo‑Burma Fold Belt,25,Indian–Burma Plate Boundary,1762,8.0,Chittagong Hill Tracts Fold Belt,High
+Comilla,Chittagong,Tripura Fold Belt,80,Indian–Burma Plate Boundary,1897,7.5,Tripura Thrust Zone,Medium
+Noakhali,Chittagong,Tripura Fold Belt,90,Indian–Burma Plate Boundary,1897,7.5,Tripura Thrust Zone,Medium
+Lakshmipur,Chittagong,Tripura Fold Belt,100,Indian–Burma Plate Boundary,1897,7.5,Tripura Thrust Zone,Medium
+Feni,Chittagong,Tripura Fold Belt,90,Indian–Burma Plate Boundary,1897,7.5,Tripura Thrust Zone,Medium
+Brahmanbaria,Chittagong,Tripura Fold Belt,85,Indian–Burma Plate Boundary,1897,7.5,Tripura Thrust Zone,Medium
+Chandpur,Chittagong,Foredeep Basin,150,Indian–Burma Plate Boundary,1897,6.5,Surma Basin,Low
+Dhaka,Dhaka,Madhupur Fault Zone,100,Indian–Burma Plate Boundary,1885,7.2,Madhupur Fault,Medium
+Manikganj,Dhaka,Madhupur Fault Zone,90,Indian–Burma Plate Boundary,1885,7.2,Madhupur Fault,Medium
+Tangail,Dhaka,Madhupur Fault Zone,90,Indian–Burma Plate Boundary,1885,7.2,Madhupur Fault,Medium
+Narayanganj,Dhaka,Madhupur Fault Zone,110,Indian–Burma Plate Boundary,1885,7.2,Madhupur Fault,Medium
+Faridpur,Dhaka,Foredeep Basin,160,Indian–Burma Plate Boundary,1885,6.0,Foredeep Basin,Low
+Rajbari,Dhaka,Foredeep Basin,180,Indian–Burma Plate Boundary,1885,6.0,Foredeep Basin,Low
+Madaripur,Dhaka,Foredeep Basin,150,Indian–Burma Plate Boundary,1885,6.0,Foredeep Basin,Low
+Gopalganj,Dhaka,Foredeep Basin,170,Indian–Burma Plate Boundary,1885,6.0,Foredeep Basin,Low
+Munshiganj,Dhaka,Foredeep Basin,130,Indian–Burma Plate Boundary,1885,6.0,Foredeep Basin,Low
+Shariatpur,Dhaka,Foredeep Basin,150,Indian–Burma Plate Boundary,1885,6.0,Foredeep Basin,Low
+Gazipur,Dhaka,Madhupur Fault Zone,95,Indian–Burma Plate Boundary,1885,7.2,Madhupur Fault,Medium
+Kishoreganj,Dhaka,Madhupur Fault Zone,100,Indian–Burma Plate Boundary,1885,7.2,Madhupur Fault,Medium
+Narsingdi,Dhaka,Madhupur Fault Zone,110,Indian–Burma Plate Boundary,1885,7.2,Madhupur Fault,Medium
+Mymensingh,Mymensingh,Madhupur Fault Zone,80,Indian–Burma Plate Boundary,1897,7.5,Madhupur Fault,Medium
+Jamalpur,Mymensingh,Madhupur Fault Zone,100,Indian–Burma Plate Boundary,1897,7.5,Madhupur Fault,Medium
+Sherpur,Mymensingh,Madhupur Fault Zone,95,Indian–Burma Plate Boundary,1897,7.5,Madhupur Fault,Medium
+Netrakona,Mymensingh,Dauki Fault Zone,60,Indian–Burma Plate Boundary,1897,7.5,Dauki Fault,High
+Khulna,Khulna,Stable Platform Zone,220,Indian–Burma Plate Boundary,1950,6.0,Bogra Fault,Low
+Bagerhat,Khulna,Stable Platform Zone,230,Indian–Burma Plate Boundary,1950,6.0,Bogra Fault,Low
+Satkhira,Khulna,Stable Platform Zone,250,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Jessore,Khulna,Stable Platform Zone,210,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Jhenaidah,Khulna,Stable Platform Zone,200,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Magura,Khulna,Stable Platform Zone,200,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Narail,Khulna,Stable Platform Zone,190,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Kushtia,Khulna,Stable Platform Zone,170,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Chuadanga,Khulna,Stable Platform Zone,180,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Meherpur,Khulna,Stable Platform Zone,200,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Rajshahi,Rajshahi,Stable Platform Zone,200,Indian–Burma Plate Boundary,1950,6.0,Bogra Fault,Low
+Naogaon,Rajshahi,Stable Platform Zone,190,Indian–Burma Plate Boundary,1950,6.0,Bogra Fault,Low
+Natore,Rajshahi,Stable Platform Zone,190,Indian–Burma Plate Boundary,1950,6.0,Bogra Fault,Low
+Chapai Nawabganj,Rajshahi,Stable Platform Zone,200,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Pabna,Rajshahi,Stable Platform Zone,160,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Sirajganj,Rajshahi,Stable Platform Zone,150,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Bogra,Rajshahi,Stable Platform Zone,140,Indian–Burma Plate Boundary,1950,6.0,Bogra Fault,Low
+Joypurhat,Rajshahi,Stable Platform Zone,160,Indian–Burma Plate Boundary,1950,6.0,Stable Platform,Low
+Rangpur,Rangpur,Stable Platform Zone,130,Indian–Burma Plate Boundary,1950,6.5,Himalayan Frontal Zone,Medium
+Dinajpur,Rangpur,Stable Platform Zone,120,Indian–Burma Plate Boundary,1950,6.5,Himalayan Frontal Zone,Medium
+Kurigram,Rangpur,Himalayan Frontal Zone,110,Indian–Eurasian Plate Boundary,1950,8.6,Assam Fault Belt,High
+Lalmonirhat,Rangpur,Himalayan Frontal Zone,100,Indian–Eurasian Plate Boundary,1950,8.6,Assam Fault Belt,High
+Nilphamari,Rangpur,Himalayan Frontal Zone,110,Indian–Eurasian Plate Boundary,1950,8.6,Assam Fault Belt,High
+Gaibandha,Rangpur,Stable Platform Zone,130,Indian–Eurasian Plate Boundary,1950,6.5,Bogra Fault,Medium
+Thakurgaon,Rangpur,Himalayan Frontal Zone,100,Indian–Eurasian Plate Boundary,1950,8.6,Assam Fault Belt,High
+Panchagarh,Rangpur,Himalayan Frontal Zone,90,Indian–Eurasian Plate Boundary,1950,8.6,Assam Fault Belt,High
+Barishal,Barishal,Foredeep Basin,180,Indian–Burma Plate Boundary,1950,5.5,Foredeep Basin,Low
+Bhola,Barishal,Foredeep Basin,190,Indian–Burma Plate Boundary,1950,5.5,Foredeep Basin,Low
+Jhalokathi,Barishal,Foredeep Basin,170,Indian–Burma Plate Boundary,1950,5.5,Foredeep Basin,Low
+Patuakhali,Barishal,Foredeep Basin,200,Indian–Burma Plate Boundary,1950,5.5,Foredeep Basin,Low
+Pirojpur,Barishal,Foredeep Basin,180,Indian–Burma Plate Boundary,1950,5.5,Foredeep Basin,Low
+Barguna,Barishal,Foredeep Basin,210,Indian–Burma Plate Boundary,1950,5.5,Foredeep Basin,Low
