@@ -1,0 +1,74 @@
+﻿Place,Population,Division,Col4,Col5,Col6,Col7,Col8,Col9,Latitude,Longitude
+Sherpur,107400.0,Mymensingh Division,14.0,6.0,1.0,0.0,0.0,0.0,25.0188,90.0175
+Mymensingh,225100.0,Mymensingh Division,11.0,6.0,2.0,0.0,0.0,0.0,24.7434,90.3984
+Rangpur,1031400.0,Rangpur Division,10.0,2.0,0.0,0.0,0.0,0.0,25.7449,89.2756
+Sylhet,237000.0,Sylhet Division,8.0,7.0,2.0,0.0,0.0,0.0,24.899,91.872
+Jamalpur,167900.0,Mymensingh Division,6.0,3.0,1.0,0.0,0.0,0.0,24.923,89.9501
+Bhairab Bazar,105500.0,Dhaka Division,3.0,2.0,1.0,0.0,0.0,0.0,24.0667,90.9833
+Ashuganj City,180700.0,Chittagong,3.0,2.0,1.0,0.0,0.0,0.0,24.0167,91.05
+Saidpur,199400.0,Rangpur Division,3.0,1.0,0.0,0.0,0.0,0.0,25.7777,88.8917
+Dhaka,10356500.0,Dhaka Division,2.0,2.0,1.0,0.0,0.0,0.0,23.8103,90.4125
+Narsingdi,281100.0,Dhaka Division,2.0,2.0,1.0,0.0,0.0,0.0,23.9207,90.7188
+Gazipur,2674700.0,Dhaka Division,2.0,2.0,1.0,0.0,0.0,0.0,24.0,90.4167
+Paltan,184500.0,Dhaka Division,2.0,2.0,1.0,0.0,0.0,0.0,23.725,90.421
+Savar,286000.0,Dhaka Division,2.0,2.0,1.0,0.0,0.0,0.0,23.8583,90.2667
+Bogra,210000.0,Rajshahi Division,2.0,1.0,0.0,0.0,0.0,0.0,24.849,89.3677
+Dinajpur,206200.0,Rangpur Division,2.0,0.0,0.0,0.0,0.0,0.0,25.625,88.65
+Satkhira,128900.0,Khulna Division,1.0,1.0,0.0,0.0,0.0,0.0,22.7234,89.0751
+Cox's Bazar,253800.0,Chittagong,1.0,1.0,1.0,0.0,0.0,0.0,21.4272,92.0058
+Comilla,1030000.0,Chittagong,1.0,1.0,1.0,0.0,0.0,0.0,23.45,91.1999
+Rajshahi,763600.0,Rajshahi Division,1.0,1.0,0.0,0.0,0.0,0.0,24.3745,88.6042
+Jessore,244000.0,Khulna Division,1.0,1.0,0.0,0.0,0.0,0.0,23.1707,89.2124
+Chittagong,3920200.0,Chittagong,1.0,1.0,1.0,0.0,0.0,0.0,22.3419,91.8155
+Pabna,186800.0,Rajshahi Division,1.0,1.0,0.0,0.0,0.0,0.0,24.0064,89.2493
+Faridpur,112200.0,Dhaka Division,1.0,1.0,0.0,0.0,0.0,0.0,23.607,89.8429
+Bandarban,495300.0,Chittagong,1.0,1.0,1.0,0.0,0.0,0.0,22.194,92.218
+Tangail,180100.0,Dhaka Division,1.0,1.0,0.0,0.0,0.0,0.0,24.25,89.9167
+Bagerhat,266400.0,Khulna Division,1.0,1.0,0.0,0.0,0.0,0.0,22.65,89.7667
+Khulna,1500700.0,Khulna Division,1.0,1.0,0.0,0.0,0.0,0.0,22.8167,89.55
+Narayanganj,223600.0,Dhaka Division,1.0,1.0,1.0,0.0,0.0,0.0,23.6226,90.501
+Barguna,,Barishal,,,,,,,22.15,90.13
+Barishal,,Barishal,,,,,,,22.7,90.37
+Bhola,,Barishal,,,,,,,22.69,90.65
+Bogura,,Rajshahi,,,,,,,24.85,89.37
+Brahmanbaria,,Chattogram,,,,,,,23.96,91.11
+Chandpur,,Chattogram,,,,,,,23.23,90.65
+Chapainawabganj,,Rajshahi,,,,,,,24.6,88.27
+Chattogram,,Chattogram,,,,,,,22.35,91.83
+Chuadanga,,Khulna,,,,,,,23.63,88.83
+Cumilla,,Chattogram,,,,,,,23.46,91.18
+Feni,,Chattogram,,,,,,,23.02,91.4
+Gaibandha,,Rangpur,,,,,,,25.33,89.55
+Gopalganj,,Dhaka,,,,,,,23.02,89.83
+Habiganj,,Sylhet,,,,,,,24.38,91.42
+Jashore,,Khulna,,,,,,,23.17,89.2
+Jhalokathi,,Barishal,,,,,,,22.64,90.19
+Jhenaidah,,Khulna,,,,,,,23.55,89.15
+Joypurhat,,Rajshahi,,,,,,,25.1,89.02
+Khagrachhari,,Chattogram,,,,,,,23.1,91.98
+Kishoreganj,,Dhaka,,,,,,,24.44,90.77
+Kurigram,,Rangpur,,,,,,,25.81,89.65
+Kushtia,,Khulna,,,,,,,23.9,89.12
+Lakshmipur,,Chattogram,,,,,,,22.95,90.83
+Lalmonirhat,,Rangpur,,,,,,,25.92,89.45
+Madaripur,,Dhaka,,,,,,,23.17,90.19
+Magura,,Khulna,,,,,,,23.49,89.42
+Manikganj,,Dhaka,,,,,,,23.86,90.0
+Meherpur,,Khulna,,,,,,,23.77,88.63
+Moulvibazar,,Sylhet,,,,,,,24.48,91.77
+Munshiganj,,Dhaka,,,,,,,23.54,90.53
+Naogaon,,Rajshahi,,,,,,,24.81,88.94
+Narail,,Khulna,,,,,,,23.18,89.5
+Natore,,Rajshahi,,,,,,,24.42,89.0
+Netrokona,,Mymensingh,,,,,,,24.88,90.73
+Nilphamari,,Rangpur,,,,,,,25.95,88.85
+Noakhali,,Chattogram,,,,,,,22.82,91.1
+Panchagarh,,Rangpur,,,,,,,26.33,88.56
+Patuakhali,,Barishal,,,,,,,22.35,90.3
+Pirojpur,,Barishal,,,,,,,22.58,89.98
+Rajbari,,Dhaka,,,,,,,23.72,89.65
+Rangamati,,Chattogram,,,,,,,22.65,92.17
+Shariatpur,,Dhaka,,,,,,,23.22,90.35
+Sirajganj,,Rajshahi,,,,,,,24.45,89.71
+Sunamganj,,Sylhet,,,,,,,25.07,91.4
+Thakurgaon,,Rangpur,,,,,,,26.02,88.46

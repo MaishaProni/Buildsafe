@@ -1,0 +1,227 @@
+City,Population,Division,Year,All_Earthquakes,M3_plus,M4_plus,M5_plus,M6_plus,M7_plus,M8_plus,M9_plus
+Sherpur,107400,Mymensingh,2025,14,6,1,0,0,0,0,0
+Mymensingh,225100,Mymensingh,2025,11,6,2,0,0,0,0,0
+Rangpur,1031400,Rangpur,2025,10,2,0,0,0,0,0,0
+Sylhet,237000,Sylhet,2025,8,7,2,0,0,0,0,0
+Jamalpur,167900,Mymensingh,2025,6,3,1,0,0,0,0,0
+Nagar Naluakot,273000,Dhaka,2025,5,4,1,0,0,0,0,0
+Karnaphuli,203700,Chittagong,2025,3,3,1,0,0,0,0,0
+Bhairab Bazar,105500,Dhaka,2025,3,2,1,0,0,0,0,0
+Ashuganj City,180700,Chittagong,2025,3,2,1,0,0,0,0,0
+Saidpur,199400,Rangpur,2025,3,1,0,0,0,0,0,0
+Kafrul,339700,Dhaka,2025,2,2,1,0,0,0,0,0
+Dhaka,10356500,Dhaka,2025,2,2,1,0,0,0,0,0
+Rangamati,106100,Chittagong,2025,2,2,1,0,0,0,0,0
+Narsingdi,281100,Dhaka,2025,2,2,1,0,0,0,0,0
+Gazipur,2674700,Dhaka,2025,2,2,1,0,0,0,0,0
+Paltan,184500,Dhaka,2025,2,2,1,0,0,0,0,0
+Bhatara,324300,Dhaka,2025,2,2,1,0,0,0,0,0
+Tungi,337600,Dhaka,2025,2,2,1,0,0,0,0,0
+Savar,286000,Dhaka,2025,2,2,1,0,0,0,0,0
+Shibganj,378700,Rajshahi,2025,2,1,0,0,0,0,0,0
+Bogra,210000,Rajshahi,2025,2,1,0,0,0,0,0,0
+Dinajpur,206200,Rangpur,2025,2,0,0,0,0,0,0,0
+Satkhira,128900,Khulna,2025,1,1,0,0,0,0,0,0
+"Cox's Bazar",253800,Chittagong,2025,1,1,1,0,0,0,0,0
+Nagarpur,238400,Dhaka,2025,1,1,0,0,0,0,0,0
+Sirajganj,127500,Rajshahi,2025,1,1,0,0,0,0,0,0
+Comilla,1030000,Chittagong,2025,1,1,1,0,0,0,0,0
+Rajshahi,763600,Rajshahi,2025,1,1,0,0,0,0,0,0
+Shahzadpur,102400,Rajshahi,2025,1,1,0,0,0,0,0,0
+Jessore,244000,Khulna,2025,1,1,0,0,0,0,0,0
+Chittagong,3920200,Chittagong,2025,1,1,1,0,0,0,0,0
+Sonargaon,130000,Dhaka,2025,1,1,1,0,0,0,0,0
+Pabna,186800,Rajshahi,2025,1,1,0,0,0,0,0,0
+Faridpur,112200,Dhaka,2025,1,1,0,0,0,0,0,0
+Bandarban,495300,Chittagong,2025,1,1,1,0,0,0,0,0
+Tangail,180100,Dhaka,2025,1,1,0,0,0,0,0,0
+Bagerhat,266400,Khulna,2025,1,1,0,0,0,0,0,0
+Nawabganj,142400,Rajshahi,2025,1,1,0,0,0,0,0,0
+Khulna,1500700,Khulna,2025,1,1,0,0,0,0,0,0
+Narayanganj,223600,Dhaka,2025,1,1,1,0,0,0,0,0
+Mohammadpur,527600,Rajshahi,2025,1,0,0,0,0,0,0,0
+Sylhet,237000,Sylhet,2024,27,17,1,0,0,0,0,0
+Rangpur,1031400,Rangpur,2024,14,4,0,0,0,0,0,0
+Sherpur,107400,Mymensingh,2024,9,2,1,0,0,0,0,0
+Saidpur,199400,Rangpur,2024,8,4,0,0,0,0,0,0
+Ashuganj City,180700,Chittagong,2024,6,6,0,0,0,0,0,0
+Bhairab Bazar,105500,Dhaka,2024,6,6,0,0,0,0,0,0
+Mymensingh,225100,Mymensingh,2024,6,1,0,0,0,0,0,0
+Jamalpur,167900,Mymensingh,2024,5,2,1,0,0,0,0,0
+Nagar Naluakot,273000,Dhaka,2024,4,4,0,0,0,0,0,0
+Comilla,1030000,Chittagong,2024,4,4,1,0,0,0,0,0
+Bogra,210000,Rajshahi,2024,4,3,0,0,0,0,0,0
+Dinajpur,206200,Rangpur,2024,4,3,0,0,0,0,0,0
+Narayanganj,223600,Dhaka,2024,3,3,1,0,0,0,0,0
+Faridpur,112200,Dhaka,2024,3,3,1,0,0,0,0,0
+Sonargaon,130000,Dhaka,2024,3,3,1,0,0,0,0,0
+Paltan,184500,Dhaka,2024,3,3,1,0,0,0,0,0
+Dhaka,10356500,Dhaka,2024,3,3,1,0,0,0,0,0
+Nagarpur,238400,Dhaka,2024,3,3,1,0,0,0,0,0
+Bandarban,495300,Chittagong,2024,3,3,2,0,0,0,0,0
+Bhatara,324300,Dhaka,2024,3,3,1,0,0,0,0,0
+Savar,286000,Dhaka,2024,3,3,1,0,0,0,0,0
+Narsingdi,281100,Dhaka,2024,3,3,1,0,0,0,0,0
+Par Naogaon,192500,Rajshahi,2024,3,2,0,0,0,0,0,0
+Shibganj,378700,Rajshahi,2024,3,2,0,0,0,0,0,0
+Mohammadpur,527600,Rajshahi,2024,3,2,0,0,0,0,0,0
+Kushtia,135700,Khulna,2024,2,2,0,0,0,0,0,0
+Kafrul,339700,Dhaka,2024,2,2,1,0,0,0,0,0
+Rangamati,106100,Chittagong,2024,2,2,1,0,0,0,0,0
+Gazipur,2674700,Dhaka,2024,2,2,1,0,0,0,0,0
+Tungi,337600,Dhaka,2024,2,2,1,0,0,0,0,0
+Karnaphuli,203700,Chittagong,2024,2,2,1,0,0,0,0,0
+Pabna,186800,Rajshahi,2024,2,2,0,0,0,0,0,0
+Rajshahi,763600,Rajshahi,2024,2,2,0,0,0,0,0,0
+Nawabganj,142400,Rajshahi,2024,1,1,0,0,0,0,0,0
+Satkhira,128900,Khulna,2024,1,1,0,0,0,0,0,0
+Sirajganj,127500,Rajshahi,2024,1,1,0,0,0,0,0,0
+Natore,369100,Rajshahi,2024,1,1,0,0,0,0,0,0
+Jessore,244000,Khulna,2024,1,1,0,0,0,0,0,0
+Hathazari,498200,Chittagong,2024,1,1,0,0,0,0,0,0
+Shahzadpur,102400,Rajshahi,2024,1,1,0,0,0,0,0,0
+Barishal,202200,Barisal,2024,1,1,1,0,0,0,0,0
+Chittagong,3920200,Chittagong,2024,1,1,1,0,0,0,0,0
+Tangail,180100,Dhaka,2024,1,1,0,0,0,0,0,0
+Puthia,159400,Rajshahi,2024,1,1,0,0,0,0,0,0
+Bagerhat,266400,Khulna,2024,1,1,1,0,0,0,0,0
+Khulna,1500700,Khulna,2024,1,1,1,0,0,0,0,0
+"Cox's Bazar",253800,Chittagong,2024,1,1,1,0,0,0,0,0
+Sylhet,237000,Sylhet,2023,35,22,7,2,0,0,0,0
+Sherpur,107400,Mymensingh,2023,17,11,3,0,0,0,0,0
+Rangpur,1031400,Rangpur,2023,14,6,0,0,0,0,0,0
+Jamalpur,167900,Mymensingh,2023,12,9,2,0,0,0,0,0
+Mymensingh,225100,Mymensingh,2023,12,9,2,0,0,0,0,0
+Bhairab Bazar,105500,Dhaka,2023,8,8,3,0,0,0,0,0
+Nagar Naluakot,273000,Dhaka,2023,8,8,3,0,0,0,0,0
+Paltan,184500,Dhaka,2023,7,7,5,1,0,0,0,0
+Narsingdi,281100,Dhaka,2023,7,7,4,1,0,0,0,0
+Nagarpur,238400,Dhaka,2023,6,6,4,0,0,0,0,0
+Comilla,1030000,Chittagong,2023,6,6,4,1,0,0,0,0
+Narayanganj,223600,Dhaka,2023,6,6,5,1,0,0,0,0
+Faridpur,112200,Dhaka,2023,6,6,4,0,0,0,0,0
+Tungi,337600,Dhaka,2023,6,6,4,0,0,0,0,0
+Dhaka,10356500,Dhaka,2023,6,6,5,1,0,0,0,0
+Tangail,180100,Dhaka,2023,6,6,4,0,0,0,0,0
+Sonargaon,130000,Dhaka,2023,6,6,4,1,0,0,0,0
+Shahzadpur,102400,Rajshahi,2023,4,4,2,0,0,0,0,0
+"Cox's Bazar",253800,Chittagong,2023,3,3,3,0,0,0,0,0
+Kushtia,135700,Khulna,2023,3,3,1,0,0,0,0,0
+Pabna,186800,Rajshahi,2023,3,3,1,0,0,0,0,0
+Nawabganj,142400,Rajshahi,2023,3,3,1,0,0,0,0,0
+Par Naogaon,192500,Rajshahi,2023,2,2,0,0,0,0,0,0
+Jessore,244000,Khulna,2023,2,2,1,0,0,0,0,0
+Puthia,159400,Rajshahi,2023,2,2,0,0,0,0,0,0
+Rajshahi,763600,Rajshahi,2023,2,2,0,0,0,0,0,0
+Sirajganj,127500,Rajshahi,2023,2,2,0,0,0,0,0,0
+Natore,369100,Rajshahi,2023,2,2,0,0,0,0,0,0
+Shibganj,378700,Rajshahi,2023,2,1,0,0,0,0,0,0
+Hathazari,498200,Chittagong,2023,2,1,1,0,0,0,0,0
+Chittagong,3920200,Chittagong,2023,2,1,1,0,0,0,0,0
+Dinajpur,206200,Rangpur,2023,2,1,1,0,0,0,0,0
+Karnaphuli,203700,Chittagong,2023,2,1,1,0,0,0,0,0
+Rangamati,106100,Chittagong,2023,2,1,1,0,0,0,0,0
+Saidpur,199400,Rangpur,2023,2,0,0,0,0,0,0,0
+Khulna,1500700,Khulna,2023,1,1,1,0,0,0,0,0
+Bogra,210000,Rajshahi,2023,1,1,0,0,0,0,0,0
+Barishal,202200,Barisal,2023,1,1,1,1,0,0,0,0
+Sylhet,237000,Sylhet,2022,18,11,2,0,0,0,0,0
+Rangpur,1031400,Rangpur,2022,13,6,2,0,0,0,0,0
+Saidpur,199400,Rangpur,2022,11,6,2,0,0,0,0,0
+Dinajpur,206200,Rangpur,2022,10,5,2,0,0,0,0,0
+Sherpur,107400,Mymensingh,2022,9,6,3,0,0,0,0,0
+Mymensingh,225100,Mymensingh,2022,7,7,4,0,0,0,0,0
+Shibganj,378700,Rajshahi,2022,7,5,3,0,0,0,0,0
+Bogra,210000,Rajshahi,2022,7,5,3,0,0,0,0,0
+Jamalpur,167900,Mymensingh,2022,7,5,3,0,0,0,0,0
+Par Naogaon,192500,Rajshahi,2022,6,4,3,0,0,0,0,0
+Faridpur,112200,Dhaka,2022,4,4,2,0,0,0,0,0
+Bhairab Bazar,105500,Dhaka,2022,3,3,1,0,0,0,0,0
+Nagarpur,238400,Dhaka,2022,3,3,2,0,0,0,0,0
+Kushtia,135700,Khulna,2022,3,3,1,0,0,0,0,0
+Pabna,186800,Rajshahi,2022,3,3,1,0,0,0,0,0
+Shahzadpur,102400,Rajshahi,2022,3,3,2,0,0,0,0,0
+Nagar Naluakot,273000,Dhaka,2022,3,3,1,0,0,0,0,0
+Khulna,1500700,Khulna,2022,2,2,0,0,0,0,0,0
+Tungi,337600,Dhaka,2022,2,2,2,0,0,0,0,0
+Tangail,180100,Dhaka,2022,2,2,2,0,0,0,0,0
+Jessore,244000,Khulna,2022,2,2,0,0,0,0,0,0
+Satkhira,128900,Khulna,2022,2,2,0,0,0,0,0,0
+Karnaphuli,203700,Chittagong,2022,2,2,1,0,0,0,0,0
+Sirajganj,127500,Rajshahi,2022,2,2,2,0,0,0,0,0
+Rangamati,106100,Chittagong,2022,2,2,1,0,0,0,0,0
+Natore,369100,Rajshahi,2022,2,2,2,0,0,0,0,0
+Nawabganj,142400,Rajshahi,2022,2,1,1,0,0,0,0,0
+Narsingdi,281100,Dhaka,2022,1,1,1,0,0,0,0,0
+"Cox's Bazar",253800,Chittagong,2022,1,1,1,0,0,0,0,0
+Hathazari,498200,Chittagong,2022,1,1,1,0,0,0,0,0
+Chittagong,3920200,Chittagong,2022,1,1,1,0,0,0,0,0
+Narayanganj,223600,Dhaka,2022,1,1,1,0,0,0,0,0
+Paltan,184500,Dhaka,2022,1,1,1,0,0,0,0,0
+Dhaka,10356500,Dhaka,2022,1,1,1,0,0,0,0,0
+Puthia,159400,Rajshahi,2022,1,1,1,0,0,0,0,0
+Sonargaon,130000,Dhaka,2022,1,1,1,0,0,0,0,0
+Rajshahi,763600,Rajshahi,2022,1,1,1,0,0,0,0,0
+Bagerhat,266400,Khulna,2022,1,1,0,0,0,0,0,0
+Sylhet,237000,Sylhet,2021,10,7,0,0,0,0,0,0
+Saidpur,199400,Rangpur,2021,7,6,2,0,0,0,0,0
+Dinajpur,206200,Rangpur,2021,6,6,3,0,0,0,0,0
+Karnaphuli,203700,Chittagong,2021,5,5,1,0,0,0,0,0
+Rangpur,1031400,Rangpur,2021,5,4,1,0,0,0,0,0
+Nawabganj,142400,Rajshahi,2021,3,3,2,0,0,0,0,0
+Rangamati,106100,Chittagong,2021,3,3,1,0,0,0,0,0
+Mymensingh,225100,Mymensingh,2021,3,1,0,0,0,0,0,0
+Shibganj,378700,Rajshahi,2021,2,2,1,0,0,0,0,0
+Chittagong,3920200,Chittagong,2021,2,2,1,0,0,0,0,0
+Bogra,210000,Rajshahi,2021,2,2,1,0,0,0,0,0
+Par Naogaon,192500,Rajshahi,2021,2,2,1,0,0,0,0,0
+Narsingdi,281100,Dhaka,2021,2,2,1,0,0,0,0,0
+Sherpur,107400,Mymensingh,2021,2,1,0,0,0,0,0,0
+"Cox's Bazar",253800,Chittagong,2021,1,1,1,0,0,0,0,0
+Bhairab Bazar,105500,Dhaka,2021,1,1,0,0,0,0,0,0
+Nagarpur,238400,Dhaka,2021,1,1,1,0,0,0,0,0
+Comilla,1030000,Chittagong,2021,1,1,0,0,0,0,0,0
+Hathazari,498200,Chittagong,2021,1,1,0,0,0,0,0,0
+Khulna,1500700,Khulna,2021,1,1,1,0,0,0,0,0
+Narayanganj,223600,Dhaka,2021,1,1,1,0,0,0,0,0
+Kushtia,135700,Khulna,2021,1,1,1,0,0,0,0,0
+Pabna,186800,Rajshahi,2021,1,1,1,0,0,0,0,0
+Paltan,184500,Dhaka,2021,1,1,1,0,0,0,0,0
+Faridpur,112200,Dhaka,2021,1,1,1,0,0,0,0,0
+Tungi,337600,Dhaka,2021,1,1,1,0,0,0,0,0
+Dhaka,10356500,Dhaka,2021,1,1,1,0,0,0,0,0
+Shahzadpur,102400,Rajshahi,2021,1,1,1,0,0,0,0,0
+Tangail,180100,Dhaka,2021,1,1,1,0,0,0,0,0
+Jessore,244000,Khulna,2021,1,1,1,0,0,0,0,0
+Satkhira,128900,Khulna,2021,1,1,1,1,0,0,0,0
+Sonargaon,130000,Dhaka,2021,1,1,1,0,0,0,0,0
+Nagar Naluakot,273000,Dhaka,2021,1,1,0,0,0,0,0,0
+Bagerhat,266400,Khulna,2021,1,1,1,0,0,0,0,0
+Natore,369100,Rajshahi,2021,1,1,0,0,0,0,0,0
+Sylhet,237000,Sylhet,2020,9,6,5,0,0,0,0,0
+Sherpur,107400,Mymensingh,2020,6,5,2,0,0,0,0,0
+Par Naogaon,192500,Rajshahi,2020,5,5,2,0,0,0,0,0
+Saidpur,199400,Rangpur,2020,4,4,1,0,0,0,0,0
+Shibganj,378700,Rajshahi,2020,4,4,2,0,0,0,0,0
+Bogra,210000,Rajshahi,2020,4,4,2,0,0,0,0,0
+Dinajpur,206200,Rangpur,2020,4,4,1,0,0,0,0,0
+Karnaphuli,203700,Chittagong,2020,4,4,3,0,0,0,0,0
+Nawabganj,142400,Rajshahi,2020,4,4,1,0,0,0,0,0
+Jamalpur,167900,Mymensingh,2020,4,3,2,0,0,0,0,0
+Mymensingh,225100,Mymensingh,2020,4,3,3,0,0,0,0,0
+Pabna,186800,Rajshahi,2020,3,3,2,0,0,0,0,0
+Nagar Naluakot,273000,Dhaka,2020,3,3,3,0,0,0,0,0
+Rangpur,1031400,Rangpur,2020,3,3,1,0,0,0,0,0
+Rajshahi,763600,Rajshahi,2020,3,3,1,0,0,0,0,0
+Rangamati,106100,Chittagong,2020,3,3,2,0,0,0,0,0
+Natore,369100,Rajshahi,2020,3,3,1,0,0,0,0,0
+Bhairab Bazar,105500,Dhaka,2020,2,2,2,0,0,0,0,0
+Nagarpur,238400,Dhaka,2020,2,2,2,0,0,0,0,0
+Tungi,337600,Dhaka,2020,2,2,2,0,0,0,0,0
+Shahzadpur,102400,Rajshahi,2020,2,2,2,0,0,0,0,0
+Tangail,180100,Dhaka,2020,2,2,2,0,0,0,0,0
+Puthia,159400,Rajshahi,2020,2,2,0,0,0,0,0,0
+Sirajganj,127500,Rajshahi,2020,2,2,2,0,0,0,0,0
+Comilla,1030000,Chittagong,2020,1,1,1,0,0,0,0,0
+Hathazari,498200,Chittagong,2020,1,1,1,0,0,0,0,0
+

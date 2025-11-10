@@ -1,0 +1,2197 @@
+district,year,national_severity_weight,basin_exposure_weight,erosion_weight,proxy_peak_exceedance_score,proxy_days_above_danger_score,proxy_percent_area_flooded_score,FDI_proxy_0_1,floodplain_context,rank_in_year,Latitude,Longitude
+Manikganj,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1990,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,1990,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1990,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1990,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1990,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1990,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1990,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1990,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1990,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,1990,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,1990,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,1990,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,1990,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,1990,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,1990,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,1990,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,1990,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,1990,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1990,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1991,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,1991,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1991,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1991,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1991,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1991,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1991,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1991,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1991,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,1991,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,1991,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,1991,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,1991,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,1991,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,1991,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,1991,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,1991,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,1991,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1991,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1992,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,1992,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1992,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1992,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1992,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1992,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1992,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1992,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1992,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,1992,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,1992,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,1992,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,1992,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,1992,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,1992,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,1992,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,1992,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,1992,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1992,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1993,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,1993,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1993,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1993,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1993,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1993,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1993,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1993,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1993,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,1993,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,1993,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,1993,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,1993,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,1993,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,1993,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,1993,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,1993,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,1993,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1993,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1994,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,1994,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1994,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1994,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1994,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1994,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1994,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1994,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1994,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,1994,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,1994,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,1994,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,1994,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,1994,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,1994,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,1994,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,1994,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,1994,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1994,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1995,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,1995,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1995,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1995,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1995,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1995,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1995,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1995,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1995,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,1995,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,1995,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,1995,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,1995,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,1995,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,1995,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,1995,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,1995,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,1995,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1995,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1996,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,1996,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1996,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1996,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1996,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1996,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1996,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1996,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1996,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,1996,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,1996,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,1996,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,1996,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,1996,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,1996,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,1996,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,1996,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,1996,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1996,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1997,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,1997,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1997,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1997,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1997,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1997,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1997,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1997,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1997,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,1997,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,1997,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,1997,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,1997,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,1997,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,1997,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,1997,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,1997,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,1997,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1997,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.85,89.37
+Pabna,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1998,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.65,89.7667
+Khulna,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.8167,89.55
+Satkhira,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.7234,89.0751
+Barguna,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.15,90.13
+Patuakhali,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.35,90.3
+Pirojpur,1998,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1998,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1998,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1998,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1998,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1998,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1998,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1998,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,23.1,91.98
+Rangamati,1998,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,22.65,92.17
+Dinajpur,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.92,89.45
+Nilphamari,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.95,88.85
+Rangpur,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.9,89.12
+Magura,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.77,88.63
+Narail,1998,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,1998,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,1998,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,1998,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.02,89.83
+Madaripur,1998,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.17,90.19
+Munshiganj,1998,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.54,90.53
+Narayanganj,1998,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,1998,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.22,90.35
+Gazipur,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.81,88.94
+Natore,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1998,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,1999,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,1999,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,1999,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,1999,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,1999,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,1999,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,1999,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,1999,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,1999,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,1999,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,1999,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,1999,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,1999,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,1999,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,1999,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,1999,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,1999,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,1999,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,1999,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2000,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2000,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2000,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2000,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2000,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2000,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2000,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2000,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2000,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2000,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2000,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2000,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2000,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2000,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2000,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2000,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2000,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2000,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2000,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2001,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2001,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2001,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2001,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2001,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2001,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2001,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2001,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2001,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2001,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2001,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2001,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2001,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2001,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2001,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2001,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2001,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2001,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2001,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2002,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2002,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2002,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2002,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2002,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2002,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2002,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2002,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2002,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2002,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2002,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2002,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2002,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2002,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2002,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2002,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2002,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2002,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2002,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2003,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2003,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2003,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2003,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2003,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2003,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2003,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2003,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2003,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2003,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2003,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2003,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2003,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2003,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2003,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2003,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2003,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2003,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2003,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.85,89.37
+Pabna,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2004,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.65,89.7667
+Khulna,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.8167,89.55
+Satkhira,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.7234,89.0751
+Barguna,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.15,90.13
+Patuakhali,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.35,90.3
+Pirojpur,2004,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2004,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2004,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2004,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2004,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2004,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2004,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2004,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,23.1,91.98
+Rangamati,2004,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.95,88.85
+Rangpur,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2004,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2004,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2004,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2004,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.02,89.83
+Madaripur,2004,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2004,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2004,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2004,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.22,90.35
+Gazipur,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.81,88.94
+Natore,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2004,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2005,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2005,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2005,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2005,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2005,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2005,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2005,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2005,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2005,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2005,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2005,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2005,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2005,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2005,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2005,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2005,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2005,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2005,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2005,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2006,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2006,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2006,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2006,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2006,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2006,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2006,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2006,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2006,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2006,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2006,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2006,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2006,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2006,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2006,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2006,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2006,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2006,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2006,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.85,89.37
+Pabna,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2007,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.65,89.7667
+Khulna,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.8167,89.55
+Satkhira,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.7234,89.0751
+Barguna,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.15,90.13
+Patuakhali,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.35,90.3
+Pirojpur,2007,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2007,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2007,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2007,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2007,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2007,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2007,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2007,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,23.1,91.98
+Rangamati,2007,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.95,88.85
+Rangpur,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2007,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2007,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2007,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2007,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.02,89.83
+Madaripur,2007,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2007,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2007,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2007,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.22,90.35
+Gazipur,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.81,88.94
+Natore,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2007,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2008,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2008,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2008,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2008,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2008,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2008,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2008,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2008,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2008,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2008,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2008,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2008,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2008,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2008,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2008,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2008,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2008,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2008,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2008,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2009,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2009,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2009,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2009,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2009,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2009,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2009,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2009,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2009,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2009,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2009,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2009,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2009,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2009,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2009,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2009,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2009,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2009,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2009,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2010,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2010,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2010,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2010,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2010,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2010,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2010,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2010,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2010,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2010,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2010,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2010,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2010,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2010,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2010,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2010,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2010,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2010,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2010,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2011,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2011,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2011,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2011,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2011,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2011,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2011,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2011,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2011,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2011,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2011,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2011,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2011,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2011,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2011,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2011,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2011,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2011,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2011,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2012,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2012,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2012,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2012,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2012,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2012,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2012,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2012,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2012,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2012,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2012,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2012,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2012,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2012,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2012,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2012,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2012,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2012,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2012,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2013,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2013,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2013,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2013,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2013,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2013,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2013,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2013,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2013,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2013,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2013,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2013,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2013,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2013,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2013,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2013,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2013,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2013,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2013,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2014,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2014,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2014,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2014,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2014,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2014,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2014,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2014,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2014,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2014,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2014,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2014,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2014,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2014,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2014,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2014,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2014,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2014,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2014,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2015,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2015,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2015,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2015,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2015,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2015,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2015,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2015,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2015,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2015,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2015,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2015,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2015,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2015,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2015,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2015,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2015,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2015,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2015,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2016,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2016,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2016,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2016,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2016,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2016,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2016,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2016,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2016,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2016,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2016,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2016,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2016,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2016,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2016,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2016,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2016,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2016,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2016,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.85,89.37
+Pabna,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2017,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.65,89.7667
+Khulna,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.8167,89.55
+Satkhira,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.7234,89.0751
+Barguna,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.15,90.13
+Patuakhali,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.35,90.3
+Pirojpur,2017,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2017,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2017,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2017,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2017,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2017,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2017,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2017,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,23.1,91.98
+Rangamati,2017,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.95,88.85
+Rangpur,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2017,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2017,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2017,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2017,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.02,89.83
+Madaripur,2017,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2017,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2017,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2017,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.22,90.35
+Gazipur,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.81,88.94
+Natore,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2017,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2018,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2018,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2018,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2018,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2018,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2018,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2018,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2018,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2018,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2018,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2018,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2018,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2018,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2018,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2018,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2018,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2018,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2018,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2018,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.85,89.37
+Pabna,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2019,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.65,89.7667
+Khulna,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.8167,89.55
+Satkhira,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.7234,89.0751
+Barguna,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.15,90.13
+Patuakhali,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.35,90.3
+Pirojpur,2019,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2019,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2019,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2019,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2019,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2019,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2019,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2019,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,23.1,91.98
+Rangamati,2019,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.95,88.85
+Rangpur,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2019,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2019,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2019,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2019,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.02,89.83
+Madaripur,2019,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2019,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2019,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2019,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.22,90.35
+Gazipur,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.81,88.94
+Natore,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2019,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.85,89.37
+Pabna,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2020,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.65,89.7667
+Khulna,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.8167,89.55
+Satkhira,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.7234,89.0751
+Barguna,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.15,90.13
+Patuakhali,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.35,90.3
+Pirojpur,2020,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2020,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2020,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2020,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2020,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2020,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2020,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2020,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,23.1,91.98
+Rangamati,2020,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.95,88.85
+Rangpur,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2020,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2020,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2020,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2020,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.02,89.83
+Madaripur,2020,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2020,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2020,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2020,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.22,90.35
+Gazipur,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.81,88.94
+Natore,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2020,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.85,89.37
+Pabna,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2021,0.25,1.0,0.9,0.25,0.25,0.25,0.315,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.65,89.7667
+Khulna,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.8167,89.55
+Satkhira,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.7234,89.0751
+Barguna,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.15,90.13
+Patuakhali,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.35,90.3
+Pirojpur,2021,0.25,1.0,0.75,0.25,0.25,0.25,0.3,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2021,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2021,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2021,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2021,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2021,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2021,0.25,1.0,0.45,0.25,0.25,0.25,0.27,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2021,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,23.1,91.98
+Rangamati,2021,0.25,0.65,0.55,0.176,0.189,0.198,0.221,Hill & flash-flood,31,22.65,92.17
+Dhaka,2021,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.8103,90.4125
+Faridpur,2021,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.607,89.8429
+Gopalganj,2021,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.02,89.83
+Madaripur,2021,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.17,90.19
+Munshiganj,2021,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.54,90.53
+Narayanganj,2021,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.6226,90.501
+Shariatpur,2021,0.25,0.4,0.9,0.122,0.145,0.16,0.215,Padma-Ganges system,33,23.22,90.35
+Dinajpur,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.625,88.65
+Lalmonirhat,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.92,89.45
+Nilphamari,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.95,88.85
+Rangpur,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Teesta sub-basin,40,25.7449,89.2756
+Chuadanga,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.63,88.83
+Jashore,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.17,89.2
+Jhenaidah,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.55,89.15
+Kushtia,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.9,89.12
+Magura,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.49,89.42
+Meherpur,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.77,88.63
+Narail,2021,0.25,0.65,0.45,0.176,0.189,0.198,0.211,Ganges west/Upper Padma,40,23.18,89.5
+Gazipur,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.81,88.94
+Natore,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2021,0.25,0.4,0.45,0.122,0.145,0.16,0.17,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2022,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2022,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2022,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2022,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2022,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2022,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2022,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2022,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2022,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2022,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2022,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2022,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2022,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2022,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2022,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2022,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2022,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2022,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2022,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2023,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2023,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2023,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2023,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2023,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2023,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2023,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2023,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2023,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2023,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2023,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2023,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2023,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2023,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2023,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2023,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2023,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2023,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2023,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.85,89.37
+Pabna,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2024,1.0,1.0,0.9,1.0,1.0,1.0,0.99,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.65,89.7667
+Khulna,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.8167,89.55
+Satkhira,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.7234,89.0751
+Barguna,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.15,90.13
+Patuakhali,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.35,90.3
+Pirojpur,2024,1.0,1.0,0.75,1.0,1.0,1.0,0.975,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2024,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2024,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2024,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2024,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2024,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2024,1.0,1.0,0.45,1.0,1.0,1.0,0.945,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2024,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,23.1,91.98
+Rangamati,2024,1.0,0.65,0.55,0.703,0.755,0.79,0.721,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.95,88.85
+Rangpur,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2024,1.0,0.65,0.45,0.703,0.755,0.79,0.711,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2024,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2024,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2024,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.02,89.83
+Madaripur,2024,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2024,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2024,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2024,1.0,0.4,0.9,0.49,0.58,0.64,0.588,Padma-Ganges system,44,23.22,90.35
+Gazipur,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.81,88.94
+Natore,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2024,1.0,0.4,0.45,0.49,0.58,0.64,0.543,Inland/less flood-prone,51,25.0188,90.0175
+Manikganj,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.86,90.0
+Rajbari,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Padma-Ganges system,1,23.72,89.65
+Tangail,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.25,89.9167
+Chandpur,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary,1,23.23,90.65
+Lakshmipur,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.95,90.83
+Noakhali,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.82,91.1
+Bogura,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.85,89.37
+Pabna,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.0064,89.2493
+Sirajganj,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.45,89.71
+Gaibandha,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.33,89.55
+Kurigram,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain + Teesta sub-basin,1,25.81,89.65
+Barishal,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.7,90.37
+Bhola,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Lower Meghna & estuary + Coastal & estuary,1,22.69,90.65
+Jamalpur,2025,0.6,1.0,0.9,0.6,0.6,0.6,0.63,Jamuna braidplain,1,24.923,89.9501
+Chattogram,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,22.35,91.83
+Cox's Bazar,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,21.4272,92.0058
+Feni,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary + Hill & flash-flood,15,23.02,91.4
+Bagerhat,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.65,89.7667
+Khulna,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.8167,89.55
+Satkhira,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.7234,89.0751
+Barguna,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.15,90.13
+Patuakhali,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.35,90.3
+Pirojpur,2025,0.6,1.0,0.75,0.6,0.6,0.6,0.615,Coastal & estuary,15,22.58,89.98
+Kishoreganj,2025,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.44,90.77
+Habiganj,2025,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.38,91.42
+Moulvibazar,2025,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.48,91.77
+Sunamganj,2025,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,25.07,91.4
+Sylhet,2025,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.899,91.872
+Netrokona,2025,0.6,1.0,0.45,0.6,0.6,0.6,0.585,Haor (Surma-Kushiyara),25,24.88,90.73
+Khagrachhari,2025,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,23.1,91.98
+Rangamati,2025,0.6,0.65,0.55,0.421,0.453,0.474,0.454,Hill & flash-flood,31,22.65,92.17
+Dinajpur,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.625,88.65
+Lalmonirhat,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.92,89.45
+Nilphamari,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.95,88.85
+Rangpur,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Teesta sub-basin,33,25.7449,89.2756
+Chuadanga,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.63,88.83
+Jashore,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.17,89.2
+Jhenaidah,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.55,89.15
+Kushtia,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.9,89.12
+Magura,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.49,89.42
+Meherpur,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.77,88.63
+Narail,2025,0.6,0.65,0.45,0.421,0.453,0.474,0.444,Ganges west/Upper Padma,33,23.18,89.5
+Dhaka,2025,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.8103,90.4125
+Faridpur,2025,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.607,89.8429
+Gopalganj,2025,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.02,89.83
+Madaripur,2025,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.17,90.19
+Munshiganj,2025,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.54,90.53
+Narayanganj,2025,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.6226,90.501
+Shariatpur,2025,0.6,0.4,0.9,0.294,0.348,0.384,0.389,Padma-Ganges system,44,23.22,90.35
+Gazipur,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.0,90.4167
+Narsingdi,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.9207,90.7188
+Brahmanbaria,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.96,91.11
+Cumilla,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,23.46,91.18
+Joypurhat,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.1,89.02
+Naogaon,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.81,88.94
+Natore,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.42,89.0
+Rajshahi,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.3745,88.6042
+Panchagarh,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.33,88.56
+Thakurgaon,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,26.02,88.46
+Mymensingh,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,24.7434,90.3984
+Sherpur,2025,0.6,0.4,0.45,0.294,0.348,0.384,0.344,Inland/less flood-prone,51,25.0188,90.0175

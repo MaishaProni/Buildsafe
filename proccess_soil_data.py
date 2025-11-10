@@ -1,11 +1,4 @@
-# clean_soil_data.py
-# Simple one-step soil data cleaner for BuildSafe
-#
-# Usage:
-#   python clean_soil_data.py
-#
-# Output:
-#   soil_topography_clean.csv
+
 
 import pandas as pd
 import re
@@ -23,10 +16,10 @@ def find_header_row(path: Path):
         for i, line in enumerate(f):
             if "Latitude" in line and "Longitude" in line:
                 return i
-    return 1  # default: skip one title row
+    return 1  
 
 def to_float(value):
-    """Convert values like '23.78°N' or '90,41 E' to plain float."""
+   
     s = str(value).replace(",", ".")
     s = re.sub(r"[^\d\.\-]+", "", s)
     try:
@@ -51,10 +44,10 @@ def canonical_div(name: str) -> str:
 
 def main():
     if not INPUT.exists():
-        print(f"❌ Missing file: {INPUT}")
+        print(f"Missing file: {INPUT}")
         return
 
-    # find actual header
+    
     hdr = find_header_row(INPUT)
     print(f"Detected header row: {hdr}")
 
@@ -104,7 +97,7 @@ def main():
 
     # save clean version
     df.to_csv(OUTPUT, index=False, encoding="utf-8")
-    print(f"✅ Cleaned file saved to: {OUTPUT}")
+    print(f" Cleaned file saved to: {OUTPUT}")
 
     # preview
     print("\nSample:")
