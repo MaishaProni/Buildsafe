@@ -204,10 +204,14 @@
             <h1>🏗️ Construction Suitability Assessment</h1>
             
             <div class="coordinates-input">
-                <input type="number" id="latitude" placeholder="Latitude" step="0.0001" min="20" max="27">
-                <input type="number" id="longitude" placeholder="Longitude" step="0.0001" min="87" max="93">
+                <input type="number" id="latitude" placeholder="Latitude" step="0.0001" min="20" max="27" value="23.8103">
+                <input type="number" id="longitude" placeholder="Longitude" step="0.0001" min="87" max="93" value="90.4125">
                 <button onclick="analyzeCoordinates()">Analyze</button>
             </div>
+            
+            <p style="color: #666; font-size: 12px; margin-bottom: 15px;">
+                💡 Click on the map or enter coordinates to analyze construction suitability
+            </p>
             
             <div class="status-box" id="statusBox"></div>
             <div class="loading" id="loading">
@@ -219,6 +223,11 @@
                 <div class="metric">
                     <div class="metric-label">📍 Selected Location</div>
                     <div class="metric-value" id="selectedLocation"></div>
+                </div>
+                
+                <div class="metric">
+                    <div class="metric-label">📊 Vulnerability Score</div>
+                    <div class="metric-value" id="vulnerabilityScore"></div>
                 </div>
                 
                 <div class="metric">
@@ -237,7 +246,7 @@
                 </div>
                 
                 <div class="metric">
-                    <div class="metric-label">🌊 Flood Vulnerability</div>
+                    <div class="metric-label">🌊 Flood Frequency</div>
                     <div class="metric-value" id="floodVulnerability"></div>
                 </div>
                 
@@ -247,7 +256,7 @@
                 </div>
                 
                 <div class="nearest-places">
-                    <div class="metric-label">📊 Nearest Assessed Locations</div>
+                    <div class="metric-label">📍 Nearest Assessed Locations</div>
                     <div id="nearestPlaces"></div>
                 </div>
             </div>
@@ -284,11 +293,18 @@
                 return;
             }
             
+            // Validate Bangladesh coordinates
+            if (lat < 20.5 || lat > 27 || lng < 87.5 || lng > 93) {
+                showStatus('Coordinates outside Bangladesh. Please use coordinates within Bangladesh bounds.', 'error');
+                return;
+            }
+            
             document.getElementById('loading').classList.add('active');
             document.getElementById('resultSection').classList.remove('active');
+            document.getElementById('statusBox').style.display = 'none';
             
-            // Call Flask backend
-            const apiUrl = 'http://127.0.0.1:5555/api/analyze';
+            // Call Flask backend - FIXED PORT to 8888
+            const apiUrl = 'http://127.0.0.1:8888/api/analyze';
             
             fetch(apiUrl, {
                 method: 'POST',
@@ -297,17 +313,21 @@
             })
             .then(response => {
                 if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
+                    return response.json().then(err => { throw new Error(err.error || `HTTP error! status: ${response.status}`); });
                 }
                 return response.json();
             })
             .then(data => {
                 document.getElementById('loading').classList.remove('active');
-                analyzeLocationWithData(lat, lng, data);
+                if (data.error) {
+                    showStatus('❌ ' + data.error, 'error');
+                } else {
+                    analyzeLocationWithData(lat, lng, data);
+                }
             })
             .catch(error => {
                 console.error('Error:', error);
-                showStatus('⚠️ Error connecting to server. Make sure Flask is running on port 5555', 'error');
+                showStatus('⚠️ Error: ' + error.message + '. Make sure the Flask server is running on port 8888.', 'error');
                 document.getElementById('loading').classList.remove('active');
             });
         }
@@ -326,46 +346,61 @@
             
             // Determine status styling
             let statusClass = 'warning';
-            if (apiData.status === 'suitable' || apiData.status === 'not_suitable') {
-                statusClass = apiData.status === 'suitable' ? 'success' : 'error';
-            } else if (apiData.status === 'high_risk') {
+            let statusIcon = '⚠️';
+            if (apiData.status === 'suitable') {
+                statusClass = 'success';
+                statusIcon = '✅';
+            } else if (apiData.status === 'high_risk' || apiData.status === 'not_suitable') {
                 statusClass = 'error';
+                statusIcon = '❌';
+            } else if (apiData.status === 'caution') {
+                statusClass = 'warning';
+                statusIcon = '⚠️';
             }
             
-            showStatus(`${apiData.message}`, statusClass);
+            showStatus(`${statusIcon} ${apiData.message}`, statusClass);
             
             // Display results from API
             document.getElementById('selectedLocation').textContent = `${lat.toFixed(4)}° N, ${lng.toFixed(4)}° E`;
+            document.getElementById('vulnerabilityScore').textContent = `${apiData.vulnerability_score}/100`;
             document.getElementById('suitability').textContent = apiData.nearest_location.suitability || 'N/A';
             document.getElementById('soilType').textContent = apiData.nearest_location.soil_type || 'N/A';
             document.getElementById('bearingCapacity').textContent = apiData.nearest_location.bearing_capacity || 'N/A';
             
             const floodFreq = apiData.nearest_location.flood_frequency || 'Unknown';
-            const floodRiskClass = floodFreq.toLowerCase().includes('high') ? 'risk-high' : 
-                                   floodFreq.toLowerCase().includes('medium') ? 'risk-medium' : 'risk-low';
+            const floodRiskClass = getRiskClass(floodFreq);
             document.getElementById('floodVulnerability').innerHTML = `
                 ${floodFreq}
                 <div class="risk-indicator ${floodRiskClass}">
-                    ${floodFreq.toLowerCase().includes('high') ? 'HIGH RISK' : floodFreq.toLowerCase().includes('medium') ? 'MEDIUM RISK' : 'LOW RISK'}
+                    ${getRiskText(floodFreq)}
                 </div>
             `;
+            
             document.getElementById('erosionRisk').textContent = apiData.nearest_location.erosion_risk || 'N/A';
             
             // Display nearest places
-            let nearestHTML = `
-                <div class="place-card" style="border-left-color: #28a745;">
-                    <div class="place-name">${apiData.nearest_location.name}</div>
-                    <div class="place-distance">📍 ${apiData.nearest_location.distance_km} km away | ${apiData.nearest_location.division}</div>
-                    <div class="risk-indicator ${floodRiskClass}">
-                        Flood Risk: ${floodFreq}
+            let nearestHTML = '';
+            if (apiData.nearest_location) {
+                const mainLoc = apiData.nearest_location;
+                const mainFloodClass = getRiskClass(mainLoc.flood_frequency);
+                nearestHTML += `
+                    <div class="place-card" style="border-left-color: #28a745;">
+                        <div class="place-name">${mainLoc.name}</div>
+                        <div class="place-distance">📍 ${mainLoc.distance_km} km away | ${mainLoc.division}</div>
+                        <div style="margin-top: 8px; font-size: 12px;">
+                            <strong>Soil:</strong> ${mainLoc.soil_type} | 
+                            <strong>Bearing:</strong> ${mainLoc.bearing_capacity}
+                        </div>
+                        <div class="risk-indicator ${mainFloodClass}">
+                            Flood: ${mainLoc.flood_frequency}
+                        </div>
                     </div>
-                </div>
-            `;
+                `;
+            }
             
             if (apiData.nearby_locations && apiData.nearby_locations.length > 0) {
                 apiData.nearby_locations.forEach(loc => {
-                    const locFloodClass = loc.flood_frequency.toLowerCase().includes('high') ? 'risk-high' : 
-                                         loc.flood_frequency.toLowerCase().includes('medium') ? 'risk-medium' : 'risk-low';
+                    const locFloodClass = getRiskClass(loc.flood_frequency);
                     nearestHTML += `
                         <div class="place-card">
                             <div class="place-name">${loc.name}</div>
@@ -382,11 +417,46 @@
             document.getElementById('resultSection').classList.add('active');
         }
         
+        function getRiskClass(riskText) {
+            if (!riskText) return 'risk-medium';
+            const text = riskText.toLowerCase();
+            if (text.includes('high')) return 'risk-high';
+            if (text.includes('medium')) return 'risk-medium';
+            if (text.includes('low')) return 'risk-low';
+            return 'risk-medium';
+        }
+        
+        function getRiskText(riskText) {
+            if (!riskText) return 'MEDIUM RISK';
+            const text = riskText.toLowerCase();
+            if (text.includes('high')) return 'HIGH RISK';
+            if (text.includes('medium')) return 'MEDIUM RISK';
+            if (text.includes('low')) return 'LOW RISK';
+            return 'MEDIUM RISK';
+        }
+        
         function showStatus(message, type) {
             const box = document.getElementById('statusBox');
             box.className = `status-box ${type}`;
             box.innerHTML = message;
+            box.style.display = 'block';
         }
+        
+        // Test the connection on load
+        window.addEventListener('load', () => {
+            fetch('http://127.0.0.1:8888/api/health')
+                .then(response => response.json())
+                .then(data => {
+                    console.log('Backend health:', data);
+                    if (data.status === 'running') {
+                        showStatus('✅ Backend connected successfully! Click on the map to analyze locations.', 'success');
+                    }
+                })
+                .catch(error => {
+                    console.error('Backend not connected:', error);
+                    showStatus('⚠️ Backend not connected. Please make sure Flask server is running on port 8888.', 'error');
+                });
+        });
     </script>
 </body>
 </html>
