@@ -1,0 +1,589 @@
+upazila,Predominant_Soil_Region,General_Bearing_Capacity_kN_m2,Building_Suitability,Key_Considerations,Latitude,Longitude
+Abhaynagar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",23.0176025927716,89.4205979424802
+Adabor,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7701668896032,90.3533359093861
+Adamdighi,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.7992398458837,89.0594639409147
+Aditmari,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.9450030228971,89.3694349545382
+Agailjhara,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,22.9678403876019,90.1407594105487
+Ajmiriganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.5533020504169,91.2841623684452
+Akhaura,Eastern Surma-Kushiyara Floodplain,80-110,Medium,Flood risk. Soil stability can vary significantly.,23.838581165162,91.1951466993564
+Akkelpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.9340420693261,89.0419267106988
+Alamdanga,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.729424249271,88.9081820289126
+Alfadanga,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.2969194095938,89.6698460906953
+Alikadam,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,21.6000009872034,92.38471427463
+Amtali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.0749017745157,90.2025489732529
+Anowara,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.2017732818624,91.8813777171918
+Araihazar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.7609006292114,90.6687589915595
+Ashuganj,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.0157902050362,91.018341547148
+Assasuni,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.5191311813901,89.187407344862
+Atgharia,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.1082573514787,89.2820036066748
+Atpara,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.7913435802862,90.8760761933407
+Atrai,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.6252395723402,88.987887538453
+Atwari,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.2495351754239,88.4263984883222
+Austagram,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.3230078302937,91.1215929504701
+Babuganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8234806927111,90.3146109233531
+Badalgachhi,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.965857763686,88.9434192194203
+Badarganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.6659646245106,89.0563197962923
+Badda,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7980059737992,90.4489364855456
+Bagati Para,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.3122442675998,88.9467486244056
+Bagerhat Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.6775417991489,89.7632943007069
+Bagha,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.2004611205448,88.8283768392257
+Baghai Chhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,23.3728571211966,92.2295151322256
+Bagher Para,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.2423105654809,89.3356384496365
+Baghmara,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.5911021224198,88.8107704712025
+Bahubal,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.3605683865881,91.5464924267408
+Bajitpur,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.2245114432298,90.9510815825362
+Bakalia,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3470489242948,91.8555766906664
+Bakerganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.5530135962746,90.3845954707401
+Bakshiganj,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.2147578155469,89.8525988037099
+Balaganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.6954263552329,91.7733334193886
+Balia Kandi,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.6496317080731,89.5506061021266
+Baliadangi,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.108443963974,88.2637359248098
+Bamna,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.2723965795592,90.0579601794136
+Banari Para,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8117355962934,90.1285511807085
+Banchharampur,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.7801217633043,90.8070140380557
+Bandar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.6376664136049,90.5377706970943
+Bandarban Sadar,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.1708701408923,92.2183006458013
+Bangshal,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7180105791302,90.4050423835812
+Baniachong,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.4946991968983,91.3654079075497
+Banshkhali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.0158198822648,91.9397914523852
+Baraigram,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.2736902934458,89.1476814644287
+Barguna Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.1345257537365,90.1089171274888
+Barhatta,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.9195310938897,90.8853425568081
+Barisal Sadar (Kotwali),Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.7133847774876,90.3942002506857
+Barkal,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.845224931315,92.3445909533975
+Barlekha,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.7081502343557,92.1755786579712
+Barura,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.3556922452956,91.0394222063664
+Basail,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.2311418836779,90.0394062819606
+Batiaghata,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.714189073776,89.5160774706489
+Bauphal,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.4353440588917,90.5390114366358
+Bayejid Bostami,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.4192413857,91.8078499854202
+Beani Bazar,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.8488819531008,92.1588877458712
+Begumganj,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.9306386491459,91.0952648126695
+Belabo,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.0985187970065,90.8493360971204
+Belai Chhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.3023985529526,92.4854073385279
+Belkuchi,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.2951627945494,89.7020806528814
+Bera,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.9422585759764,89.6560065689999
+Betagi,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3471193744115,90.1480649309626
+Bhairab,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.0973841730149,90.981549574316
+Bhaluka,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.381699756769,90.3535508827061
+Bhandaria,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.454189258862,90.0215519381684
+Bhanga,Young Ganges River Floodplain,65-95,Medium,Recent floodplain deposits. Soft soils with moderate compressibility.,23.386742626544,90.0097701127248
+Bhangura,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.2392539599064,89.3927258151363
+Bhedarganj,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.2383480737574,90.5138908517683
+Bheramara,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.0568808998342,88.9816442968879
+Bhola Sadar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.6887123042742,90.6151225338806
+Bholahat,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8962312116754,88.2097040407461
+Bhuapur,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.4765164338264,89.8142521625003
+Bhurungamari,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.1167170768519,89.6903480780209
+Bijoynagar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.9943118525386,91.2280989817613
+Biman Bandar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8475068726665,90.4059498331747
+Biral,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.6467440443675,88.5476238604242
+Birampur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.379084310191,88.9635655265753
+Birganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.9279409227226,88.6266936415752
+Bishwambarpur,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.1097612998744,91.3150451244532
+Bishwanath,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.8350327719683,91.7292039253237
+Boalia,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.3778589077272,88.6131770640711
+Boalkhali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3767815979026,91.9689799272073
+Boalmari,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.4044848206447,89.6970391207566
+Bochaganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.785841322874,88.4535278424563
+Boda,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.2306453278483,88.6126463661165
+Bogra Sadar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8955417160062,89.3556948259744
+Brahman Para,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.6451625818434,91.0966299533476
+Brahmanbaria Sadar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.9505252101208,91.1189565370704
+Burhanuddin,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.4828866652508,90.7185074420683
+Burichang,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.5336448637706,91.1170066713946
+Cantonment,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8144761762393,90.3998004873007
+Chak Bazar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7170160114457,90.3937098985126
+Chakaria,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.7402150638174,92.052398042713
+Chandanaish,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.2121171131712,92.0632925813426
+Chandgaon,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3876373884204,91.8649273200439
+Chandina,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.4459373632385,90.9465158929358
+Chandpur Sadar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.2303209257204,90.685290565272
+Char Bhadrasan,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.5924938644608,89.978037666983
+Char Fasson,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.0859806845631,90.7053188183053
+Char Rajibpur,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.4432700810417,89.7638663115164
+Charghat,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.3000845283311,88.775377952143
+Chatkhil,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0538219113328,90.9637856246452
+Chatmohar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.2250734914967,89.3020268117365
+Chauddagram,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.220018927809,91.2804348233125
+Chaugachha,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.2636328780832,89.0218172140426
+Chauhali,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.1361286084176,89.7566375414581
+Chhagalnaiya,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0168643103886,91.5069957497068
+Chhatak,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.943847745045,91.615504309066
+Chilmari,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.5662543442929,89.7183845672816
+Chirirbandar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.6653456782518,88.7863779840161
+Chitalmari,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8123373695752,89.8653089878986
+Chittagong Port,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3083565860156,91.7858605074386
+Chuadanga Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.5887440156773,88.8845854424121
+Chunarughat,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.1816419703724,91.5173537572402
+Comilla Adarsha Sadar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.4697940966327,91.1711472664152
+Comilla Sadar Dakshin,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.3579428543132,91.1833428415877
+Companiganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.7701007041434,91.2819850145212
+Companiganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",25.0796782328475,91.7734131902889
+Companiganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",22.7701007041434,91.2819850145212
+Companiganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.0796782328475,91.7734131902889
+Cox's Bazar Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.5055975482083,92.0346428054318
+Dacope,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3888242778872,89.5186178565416
+Daganbhuiyan,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.9705378972714,91.2996993741138
+Dakshin Sunamganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.9125336569303,91.4107099140532
+Dakshin Surma,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.8160915581084,91.8769873150226
+Dakshinkhan,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8612389976761,90.4250134373272
+Damudya,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.1368144876481,90.4216559262838
+Damurhuda,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.5931835336194,88.7404767590297
+Darus Salam,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.784055268665,90.3451505208491
+Dashmina,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.2642844940591,90.5490393297586
+Daudkandi,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.5025907995416,90.7731215242952
+Daulatkhan,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.6115751293543,90.7072787191595
+Daulatpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.9557499994227,89.7976787643194
+Daulatpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,22.8750898086047,89.5091740344779
+Daulatpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.0272123604029,88.8392533341102
+Daulatpur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",23.9557499994227,89.7976787643194
+Daulatpur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8750898086047,89.5091740344779
+Daulatpur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",24.0272123604029,88.8392533341102
+Daulatpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.9557499994227,89.7976787643194
+Daulatpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,22.8750898086047,89.5091740344779
+Daulatpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.0272123604029,88.8392533341102
+Debhata,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.5973281257717,89.0152594272962
+Debidwar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.5783257790037,90.9978501293967
+Debiganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.1320257892077,88.7194505102224
+Delduar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.142004559036,89.9376765644424
+Demra,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7244499351868,90.4810443746878
+Derai,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.7874959928419,91.336034146016
+Dewanganj,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.2633979127017,89.7659586830907
+Dhamoirhat,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.130413118963,88.822954421111
+Dhamrai,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.9370558215104,90.1414981359793
+Dhanbari,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.6867146275454,89.9333161381875
+Dhanmondi,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7451243255756,90.3736043707065
+Dharampasha,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.0107355790586,91.0407701194229
+Dhobaura,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.1011128318899,90.5249160965518
+Dhunat,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.6825199159351,89.5503256660178
+Dhupchanchia,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8836839814351,89.1391310832347
+Dighalia,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.9250111687397,89.5600610022391
+Dighinala,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,23.3991257750712,92.0499229122403
+Dimla,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.172014221734,88.9726156654141
+Dinajpur Sadar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.6079928419228,88.6773153912385
+Dohar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.600875506574,90.1093607780619
+Domar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.1585079360006,88.8252452501438
+Double Mooring,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3302344150454,91.8091912790476
+Dowarabazar,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.0717549024306,91.5625483944152
+Dumki,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.4504061378146,90.3718724597901
+Dumuria,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8053702188764,89.3980207534845
+Durgapur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.0896205869635,90.6820730483002
+Durgapur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.4667364186035,88.7601291132097
+Durgapur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.0896205869635,90.6820730483002
+Durgapur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4667364186035,88.7601291132097
+Fakirhat,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.7423829759689,89.6656890812422
+Faridganj,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.1462681971801,90.7609509048263
+Faridpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.1606665779837,89.4488642856143
+Faridpur Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.6047146629631,89.816493227616
+Fatikchhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.756293771322,91.7473078319127
+Fenchuganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.6937920266424,91.9617785077257
+Feni Sadar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.9899728845128,91.4159006550706
+Fulbari,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.4701562652729,88.9018380496507
+Fulbaria,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.586491800212,90.2545068659034
+Fulchhari,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.2543756464076,89.6539428060374
+Fulgazi,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.1179845509884,91.4425119668709
+Gabtali,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8867615651926,89.4649935436559
+Gaffargaon,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.3935274886183,90.5495342576239
+Gaibandha Sadar,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.349744568291,89.5666239904103
+Galachipa,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.0530598402881,90.4507961624833
+Gangachara,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.874218930665,89.1934048665964
+Gangni,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.8577201766342,88.771178146969
+Gauripur,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.7560067998278,90.5858813780719
+Gaurnadi,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.9663551926687,90.2446917273271
+Gazaria,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.5471964661069,90.6297419749551
+Gazipur Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.0140552001429,90.396215414407
+Gendaria,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7066719884187,90.4225017941723
+Ghatail,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.4735181071633,90.0515720462684
+Ghior,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8733457276983,89.9044444601468
+Ghoraghat,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.2842498601193,89.214323351604
+Goalandaghat,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.7563470273691,89.7661051315666
+Gobindaganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.1571078509904,89.3691638154393
+Godagari,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4834457251385,88.414719225927
+Golabganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.811987383854,92.0169878564418
+Gomastapur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8569418519449,88.3550162424363
+Gopalganj Sadar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0603784671359,89.8487878410314
+Gopalpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.5720161608198,89.9035319869475
+Gosairhat,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0790613008852,90.448720439518
+Gowainghat,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.0831404758732,91.9583315525058
+Gulshan,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7896520826208,90.4120384894969
+Gurudaspur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.3727994375151,89.2028513049925
+Habiganj Sadar,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.335911836167,91.4142679311131
+Haim Char,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0694660906907,90.6265005159585
+Hajiganj,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.2628562468948,90.8373415470468
+Hakimpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.2920481084722,89.0620893221186
+Halishahar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3376761725522,91.7757882174688
+Haluaghat,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.084636704572,90.3513385847205
+Harinakunda,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.6427091435325,89.0766159041267
+Haripur,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.8784522583106,88.1548426361966
+Harirampur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.7241748129288,89.9478596736847
+Hathazari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.5278397689218,91.7978994773761
+Hatibandha,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.121451631428,89.1409637746643
+Hatiya,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.3093818108338,91.0909564942232
+Hazaribagh,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7389934844547,90.359127470886
+Hizla,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.9562038360971,90.5219551480803
+Homna,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.6792343017184,90.812736509683
+Hossainpur,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.4488104429733,90.6628468610614
+Ishwardi,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.0777914892048,89.097262723259
+Ishwarganj,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.6450318611878,90.5994752632932
+Islampur,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.0752016718771,89.7612707008856
+Itna,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.5492612044658,91.0824840541839
+Jagannathpur,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.7469333859946,91.5558541173305
+Jaintiapur,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.056400671971,92.1013747864619
+Jaldhaka,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.0295034938259,88.99345218911
+Jamalganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.9541066505704,91.2030629712642
+Jamalpur Sadar,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.8441600851798,90.0124868587541
+Jatrabari,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7134092802406,90.4514344264651
+Jhalokati Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.6796744009814,90.1922628479929
+Jhenaidah Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.5164579578257,89.1578108041393
+Jhenaigati,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.1818268663247,90.0529798368505
+Jhikargachha,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.0689195685896,89.054232327974
+Jiban Nagar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.4410786313128,88.8491864048544
+Joypurhat Sadar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.1056110586962,89.0199712959071
+Jurai Chhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.6308666873201,92.4225156126984
+Juri,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.5531065515904,92.1432301696334
+Kabirhat,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.8133927916221,91.1999016599329
+Kachua,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.3626008250131,90.8817274316597
+Kachua,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,22.6522549748517,89.8747652129253
+Kachua,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",23.3626008250131,90.8817274316597
+Kachua,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.6522549748517,89.8747652129253
+Kadamtali,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.68726664251,90.4487607707715
+Kafrul,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7956317358214,90.3848207616858
+Kahaloo,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8322490095691,89.25048831008
+Kaharole,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.8008958070513,88.5988651491135
+Kala Para,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.9356208742756,90.2183716332098
+Kalabagan,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7470645927963,90.3861495134452
+Kalai,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.0778009285671,89.1977979675617
+Kalaroa,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8807247974369,89.0302375678457
+Kalia,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.0279722516664,89.6440931604819
+Kaliakair,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.1031894183956,90.2645780712197
+Kaliganj,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.9642554144844,90.5549093480521
+Kaliganj,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.3696878922931,89.1518379727938
+Kaliganj,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,22.4472408029612,89.0623301306736
+Kaliganj,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.9856171904238,89.240208108678
+Kaliganj,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.9642554144844,90.5549093480521
+Kaliganj,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.3696878922931,89.1518379727938
+Kaliganj,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,22.4472408029612,89.0623301306736
+Kaliganj,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,25.9856171904238,89.240208108678
+Kaliganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",23.9642554144844,90.5549093480521
+Kaliganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",23.3696878922931,89.1518379727938
+Kaliganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.4472408029612,89.0623301306736
+Kaliganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",25.9856171904238,89.240208108678
+Kaliganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",23.9642554144844,90.5549093480521
+Kaliganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",23.3696878922931,89.1518379727938
+Kaliganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",22.4472408029612,89.0623301306736
+Kaliganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.9856171904238,89.240208108678
+Kalihati,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.3600137104592,89.9449039209584
+Kalkini,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0709038057784,90.2483369128228
+Kalmakanda,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.0768711852666,90.8572773277566
+Kalukhali,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.740981891361,89.4741679962255
+Kamalganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.3156354847029,91.8592324793093
+Kamalnagar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.7675345284336,90.8653290098823
+Kamarkhanda,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.3749967797666,89.6435519096394
+Kamrangir Char,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7115450724203,90.3717676876237
+Kanaighat,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.9935497387376,92.2180212479011
+Kanthalia,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.4202694698141,90.1023044427464
+Kapasia,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.1471760118935,90.5998449021148
+Kaptai,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.4597954123613,92.1935083001522
+Karimganj,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.4512786500425,90.8959951740656
+Kasba,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.7630445288781,91.1303029673935
+Kashiani,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.190713830685,89.7962845891537
+Katiadi,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.2910264167217,90.8240207207718
+Kaunia,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.7637731100451,89.3949597023979
+Kawkhali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.6064484166021,90.0584898433442
+Kawkhali (Betbunia),Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.6207680503762,92.0095810924567
+Kazipur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.6702136588854,89.6872921430452
+Kendua,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.6773125835121,90.8029079724499
+Keraniganj,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.6934753150863,90.3442825309257
+Keshabpur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8801217451941,89.2316283126821
+Khagrachhari Sadar,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,23.1283115170969,91.9860265425963
+Khaliajuri,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.7023470588298,91.1213111900201
+Khalishpur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8497548521659,89.536341012211
+Khan Jahan Ali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.916760261781,89.4904307346881
+Khansama,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.8697074128519,88.7652430002732
+Khetlal,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.0223842739956,89.1180518210439
+Khilgaon,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7598997368661,90.45477246457
+Khilkhet,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8344519158941,90.4475561627724
+Khoksa,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.8087193826845,89.2997197509989
+Khulna Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8006062352446,89.5686402349795
+Khulshi,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.366071651785,91.8001389712383
+Kishoreganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.8960209066544,89.0328656991315
+Kishoreganj Sadar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.4237683495456,90.7833519994917
+Kotali Para,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0110044671031,90.0206973768875
+Kotchandpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.4479016932459,88.9986852801959
+Kotwali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3430180565296,91.8323335667942
+Kotwali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",23.7096971237861,90.4080985854337
+Kotwali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",23.1819446664638,89.2193250053316
+Kotwali,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,22.3430180565296,91.8323335667942
+Kotwali,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7096971237861,90.4080985854337
+Kotwali,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.1819446664638,89.2193250053316
+Kotwali,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,22.3430180565296,91.8323335667942
+Kotwali,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.7096971237861,90.4080985854337
+Kotwali,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.1819446664638,89.2193250053316
+Koyra,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.1452397046567,89.3822575860887
+Kulaura,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.4902560675258,92.0123399000601
+Kuliar Char,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.1518888442807,90.8881222503873
+Kumarkhali,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.8566543458526,89.2095302207059
+Kurigram Sadar,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.8260296878057,89.6907084501962
+Kushtia Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.8222300226976,89.0896082221839
+Kutubdia,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.8379657573298,91.8625529380986
+Lakhai,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.2980962608565,91.2603795431891
+Laksam,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.2386957502018,91.1052420349165
+Lakshmichhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.7849417763322,91.9290596045107
+Lakshmipur Sadar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.9210586323388,90.8631012614777
+Lalbagh,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7211525591517,90.3778401784838
+Lalmohan,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.316125984242,90.7516217224087
+Lalmonirhat Sadar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.8746887521909,89.4526098583857
+Lalpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.1983973196252,88.98494258373
+Lama,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,21.8179331485289,92.2075917329309
+Langadu,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.9505531903783,92.2088529691019
+Lohagara,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.9862127448806,92.1111202528144
+Lohagara,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",23.2048452382987,89.6236159518687
+Lohagara,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,21.9862127448806,92.1111202528144
+Lohagara,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.2048452382987,89.6236159518687
+Lohajang,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.4705854168072,90.3413536440715
+Madan,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.677526179465,90.9670806730764
+Madarganj,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.8818779620574,89.7408344035083
+Madaripur Sadar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.193766589858,90.174850604394
+Madhabpur,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.120439194869,91.3414673911414
+Madhukhali,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.5409299663178,89.612044238631
+Madhupur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.6501677053392,90.0602298380974
+Magura Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.4518428937707,89.413032413817
+Mahadebpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.9199162426556,88.7647563667786
+Mahalchhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.9514657174757,92.0233757742865
+Maheshkhali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.6089827696344,91.9210096599328
+Maheshpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.3196818244851,88.8578223702252
+Manda,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.7443288174297,88.7129865278351
+Manikchhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.8412063999694,91.8191110812173
+Manikganj Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8358323084795,90.0305267959282
+Manirampur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.0062234926788,89.2201175764458
+Manohardi,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.160763870522,90.7304769123302
+Manoharganj,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.140113935916,91.0669622010145
+Manpura,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.2237487588854,90.9485571730873
+Mathbaria,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.285168021017,89.9505717609713
+Matihar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.3676738063495,88.6469748618254
+Matiranga,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,23.1045081271562,91.8547761528886
+Matlab Dakshin,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.3497649221953,90.7469100381698
+Matlab Uttar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.4136033413862,90.6419804080616
+Maulvi Bazar Sadar,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.4995097860705,91.7123251530029
+Meghna,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.6247477381417,90.6908590563875
+Mehendiganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8192132553846,90.5076155927376
+Meherpur Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.7662881435657,88.661122553811
+Melandaha,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.9573480690859,89.8246833688764
+Mirpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.794159805622,90.3617561658255
+Mirpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8959818925093,88.989637897712
+Mirpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.794159805622,90.3617561658255
+Mirpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.8959818925093,88.989637897712
+Mirsharai,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8099215370487,91.5501431103361
+Mirzaganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3567659814246,90.2166025048199
+Mirzapur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.1159283820009,90.1071631468087
+Mitha Pukur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.5714318481162,89.2611559128997
+Mithamain,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.4331087134068,91.1105284609956
+Mohammadpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7586310820488,90.3566926627137
+Mohammadpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.4009652333568,89.552305097073
+Mohammadpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.7586310820488,90.3566926627137
+Mohammadpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.4009652333568,89.552305097073
+Mohanganj,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.8267651454468,91.023660603306
+Mohanpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.5536041924072,88.6403314172611
+Mollahat,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8826757834641,89.7733001426729
+Mongla,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.1267148873778,89.6543982509384
+Morrelganj,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.483803278546,89.8336279085756
+Motijheel,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.734762557346,90.4214620408246
+Mujib Nagar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.6683743245625,88.6213868192148
+Muksudpur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.2667255778738,89.9143477510404
+Muktagachha,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.7429599651899,90.2037895428764
+Muladi,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.9527066743365,90.3762315947841
+Munshiganj Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.486576181208,90.5275635307488
+Muradnagar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.6775337950471,90.9435907791426
+Mymensingh Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.7745746694908,90.3615884257432
+Nabiganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.5695941906341,91.5445087261547
+Nabinagar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.8635638312553,90.9805100541725
+Nachole,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.7267770123587,88.3964488314844
+Nagarkanda,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.4372177785917,89.8942864023029
+Nagarpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.0476991918385,89.874117340234
+Nageshwari,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.9584783561227,89.7400906663797
+Naikhongchhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,21.4689129851651,92.2287388315772
+Nakla,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.9567632129652,90.1837046230741
+Nalchity,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.6007016066155,90.273558572681
+Nalitabari,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.1175788412827,90.1835061770894
+Nandail,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.5501859979289,90.6771518447823
+Nandigram,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.6812751175115,89.2267938043152
+Nangalkot,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.1401262279759,91.2092986678919
+Naniarchar,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.8217870745511,92.0693762088841
+Naogaon Sadar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8110493176067,88.8981693250886
+Narail Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.1545372257862,89.4948885232544
+Narayanganj Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.6274689326204,90.4810612566982
+Naria,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.3046592850597,90.4273863462873
+Narsingdi Sadar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.8665697471497,90.7080966271849
+Nasirnagar,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.1822401723539,91.1875248095954
+Natore Sadar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4432783915446,88.9840478635321
+Nawabganj,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.6734131777272,90.1606837135204
+Nawabganj,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.4204189586824,89.0917016148348
+Nawabganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,23.6734131777272,90.1606837135204
+Nawabganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.4204189586824,89.0917016148348
+Nawabganj Sadar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.5650061645911,88.2579131099959
+Nazirpur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.7703212551348,89.9743774891328
+Nesarabad (Swarupkati),Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.7225454950105,90.085677803803
+Netrokona Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.8867317568874,90.7373697390694
+New Market,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7355636549543,90.380881202821
+Niamatpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8284246411655,88.5515062789006
+Nikli,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.3367724749826,90.963108501986
+Nilphamari Sadar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.9416487683992,88.8549001814946
+Noakhali Sadar (Sudharam),Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.8023622276144,91.0605952117432
+Paba,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4056498810228,88.5994441531232
+Pabna Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.9936754423255,89.2815162003004
+Pahartali,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3596496081915,91.7727681108247
+Paikgachha,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.5905418640229,89.3402974003026
+Pakundia,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.3206810157844,90.6926828340637
+Palash,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.9537986705893,90.6492907555358
+Palashbari,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.2636209841162,89.3967789638513
+Pallabi,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8254056050166,90.3681591312563
+Paltan,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.734936506379,90.4137962187233
+Panchagarh Sadar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.3674798182152,88.5817486899946
+Panchbibi,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.2021722579654,89.0703043807145
+Panchhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,23.3197535954858,91.9101414821192
+Panchlaish,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3734569271698,91.8286483375995
+Pangsha,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.7878947132981,89.3868024735516
+Parbatipur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.6187425611169,88.9255993905199
+Parshuram,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.2013700770578,91.4397029063811
+Patenga,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.2629456724821,91.7958578030161
+Patgram,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.3399590718836,89.0240176828447
+Patharghata,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.0947301640138,89.9661995033762
+Patiya,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.2921164674049,91.9638387773819
+Patnitala,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.0753929163483,88.7165182084637
+Patuakhali Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.3358274436163,90.3289215813453
+Pekua,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.8181667753295,91.9527794890476
+Phulbari,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.9494607012275,89.5705273474506
+Phulpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.908522016723,90.4064944898111
+Phultala,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.9565990353569,89.4418507802901
+Pirgachha,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.665071875154,89.420068865152
+Pirganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.4236981023351,89.2742974902777
+Pirganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.8410849960614,88.3679028192949
+Pirganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.4236981023351,89.2742974902777
+Pirganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.8410849960614,88.3679028192949
+Pirojpur Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.6087414380964,89.9810793378645
+Porsha,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.9922018385618,88.5176850737957
+Purbadhala,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.9338180482519,90.6019801659671
+Puthia,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4109767584243,88.8273250383221
+Rajapur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.5507368700207,90.1311049790459
+Rajarhat,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.7860922908219,89.5423636299797
+Rajasthali,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.3784997298095,92.2417001985812
+Rajbari Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.7174556993557,89.6541195730992
+Rajnagar,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.5652543852541,91.8608584010163
+Rajoir,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.2013350497409,90.036938298566
+Rajpara,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.377127927636,88.5672396120236
+Ramganj,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0989290137246,90.8725774279997
+Ramgarh,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.9349927397541,91.831200452137
+Ramgati,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.6450692391668,90.9453569142808
+Ramna,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7481876888218,90.4060062431021
+Rampal,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.5913512349397,89.6521992771093
+Rampura,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7609092045534,90.4207451446899
+Ramu,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.4407281709811,92.1209980224805
+Rangamati Sadar,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.6365796410677,92.1989095208954
+Rangpur Sadar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.7458894407938,89.2123503349324
+Rangunia,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.4649634407579,92.0665969492673
+Raninagar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.7107650128505,89.0218456613999
+Ranisankail,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.9400644264593,88.2458188889687
+Raozan,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.5207585819619,91.9169103957462
+Raumari,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.5914291841223,89.827539497011
+Rowangchhari,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.2093319308802,92.3399069261733
+Royganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4922149777725,89.5156736301329
+Roypur,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.999852413858,90.7309597698986
+Roypura,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.960021333641,90.8719656100634
+Ruma,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.0126386651457,92.4292698364161
+Rupganj,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.8127112639234,90.5387733884249
+Rupsa,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8200929708429,89.6361535955877
+Sabujbagh,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7346727931725,90.4420839507059
+Sadarpur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.4958536499256,90.0525018815681
+Sadullapur,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.3947221013286,89.4263644786213
+Saghatta,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.123325923225,89.5638027178719
+Saidpur,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.8028935633301,88.922028686824
+Sakhipur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.3065857972376,90.1728997170697
+Saltha,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.4200256662221,89.79965600949
+Sandwip,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.5247295898697,91.4535100958239
+Santhia,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.042191943069,89.5168214201951
+Sapahar,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.1181489051428,88.5302565194161
+Sarail,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.1032796874244,91.1121999972696
+Sarankhola,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.1103816665232,89.8081409553078
+Sariakandi,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.8811202514917,89.6140051438515
+Sarishabari,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.718481793644,89.8304695391879
+Satkania,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.1051587475465,92.0595161075904
+Satkhira Sadar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.7209277666322,89.038652662355
+Saturia,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.9575362075111,90.0016558150273
+Savar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8810225566887,90.280780218716
+Senbagh,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.9924292266476,91.2121157378712
+Serajdikhan,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.5976594145099,90.3564921605729
+Shah Ali,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8118939043665,90.3473939802475
+Shah Makhdum,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4029443934671,88.6085815008228
+Shahbagh,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.732476974705,90.3991444715388
+Shahjadpur,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,24.1627775963019,89.6301144532052
+Shahrasti,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.2086744919711,90.9569717681766
+Shailkupa,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.663387569382,89.2421817685671
+Shajahanpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.7600761225993,89.3749330074543
+Shalikha,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.348109495295,89.3585379109444
+Shariatpur Sadar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.21607000832,90.3158778110901
+Sharsha,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.0448933822163,88.9407345677413
+Sher-e-bangla Nagar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7699761744282,90.3758747164455
+Sherpur,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.6290995479643,89.4223784723255
+Sherpur Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.9929093363451,90.0198870101765
+Shib Char,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.3754282909392,90.1742332884707
+Shibalaya,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8383027122985,89.810164829619
+Shibganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.0164892706858,89.3067034898434
+Shibganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.704385977816,88.1547933625769
+Shibganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,25.0164892706858,89.3067034898434
+Shibganj,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.704385977816,88.1547933625769
+Shibpur,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.0259753045916,90.7453271347405
+Shyamnagar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.0687583971934,89.1793042074804
+Shyampur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.6971121422151,90.4300677232163
+Singair,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.783308903884,90.1543501476441
+Singra,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.5241245692181,89.1860242046513
+Sirajganj Sadar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.4941069163965,89.6884800474561
+Sitakunda,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,22.5588468823114,91.6828611059064
+Sonadanga,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.819876005063,89.5422166916909
+Sonagazi,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.8610667541389,91.3955401199123
+Sonaimuri,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",23.0262759710707,91.0777052983507
+Sonargaon,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.675566810045,90.593329595264
+Sonatola,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.9969729059607,89.5140050714698
+Sreebardi,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,25.1656340533889,89.95490812568
+Sreemangal,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.3010225920525,91.6979578326053
+Sreenagar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.5469372444916,90.2632251486774
+Sreepur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.2051706279517,90.443113247704
+Sreepur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.5962628259127,89.4244698200674
+Sreepur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,24.2051706279517,90.443113247704
+Sreepur,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.5962628259127,89.4244698200674
+Subarnachar,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.6201421345544,91.1515853946259
+Sujanagar,Ganges River Floodplain,70-100,Medium,Risk of flooding. Soil can be soft and compressible.,23.8966676857976,89.5127482272196
+Sulla,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.6863134925649,91.2570740615767
+Sunamganj Sadar,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.0507740933946,91.3954415184311
+Sundarganj,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.5100443896747,89.5639354964442
+Sutrapur,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.713812858475,90.4173573493919
+Sylhet Sadar,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.9412718202074,91.8474376528189
+Tahirpur,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",25.1281108003634,91.1633652820418
+Tala,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.7400173940232,89.2105972568924
+Tangail Sadar,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.2564098003109,89.8661272884572
+Tanore,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.6202410126563,88.5310822015425
+Taraganj,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",25.7806367462743,89.0332602416023
+Tarail,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,24.550174851353,90.8907451002912
+Tarash,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.4431551047151,89.358125069528
+Tazumuddin,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.4388693041602,90.8578775000627
+Tejgaon,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7628366629538,90.3916942030326
+Tejgaon Ind. Area,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.7643403219981,90.402968045711
+Teknaf,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",20.9921554801302,92.2236905914957
+Tentulia,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.5135283806534,88.4298644338314
+Terokhada,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.9126201289308,89.6543377333612
+Thakurgaon Sadar,Old Himalayan Piedmont Plain,120-150,High,"Stable, well-drained land. Good for all types of foundations.",26.0706368746362,88.4644524389111
+Thanchi,Hill Soils,80-110,Low-Medium,High erosion and landslide risk. Requires extensive geotechnical investigation.,21.6370431266304,92.5310251543719
+Titas,Old Meghna Estuarine Floodplain,75-105,Medium,Some flood risk. Soil is more consolidated than young floodplains.,23.5895897432736,90.7969932569146
+Tongibari,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.47600915465,90.4526388431179
+Trishal,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,24.5638327175124,90.4094092716658
+Tungi Para,Young Meghna Estuarine Floodplain,55-85,Low-Medium,"Soft, compressible soils with high water table. Significant flood risk.",22.9254289325789,89.9044465718508
+Turag,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8599759762886,90.3666546516889
+Ukhia,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",21.2292867111579,92.115938635182
+Ulipur,Old Brahmaputra Floodplain,80-110,Medium,Moderate flood risk. Mixed sand and silt soils.,25.6890914907935,89.6689077777013
+Ullah Para,Barind Tract,100-130,Medium-High,Generally stable but can be hard and compacted in dry season.,24.3273399535596,89.5180911696362
+Uttar Khan,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8746349069187,90.4448204632902
+Uttara,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.8721602424199,90.394111381482
+Wazirpur,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.8655834048755,90.1660449414292
+Zakiganj,Surma-Kushiyara Floodplain,60-90,Medium,"Very low-lying, high flood risk. Soft, organic-rich soils.",24.9261198898878,92.3672159182535
+Zanjira,Madhupur Tract,90-120,Medium-High,Moderately stable. Shrink-swell potential in dry seasons.,23.3655064937381,90.318181081535
+Zianagar,Young Tidal Floodplain,50-80,Low-Medium,"Very soft, saline, and compressible. High water table. Special foundations needed.",22.4655005160524,89.9342781769972
